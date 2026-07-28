@@ -1,0 +1,1001 @@
+Drug Name,Manufacturer,Dosage Form,Strength,Package Size,Units Sold,Revenue,Sale Date,Region,Sales Representative,Customer Type
+Drug B,Company W,Tablet,100 mg/ml,50 g,1500,$43833,07-02-2024,South America,Susan Hernandez,Clinics
+Drug B,Company X,Cream,500 mg,100 ml,1194,$48717,08-08-2023,South America,Jackie Wagner,Clinics
+Drug E,Company X,Capsule,50 mg,60,618,$8744,15-06-2024,Africa,Mariah Mccoy,Hospitals
+Drug E,Company X,Injection,10 mg,100 ml,1455,$25321,15-07-2024,Asia,Courtney Doyle,Pharmacy
+Drug C,Company V,Tablet,100 mg/ml,50 g,130,$13669,13-08-2023,South America,Dawn Torres,Clinics
+Drug B,Company V,Capsule,100 mg/ml,10 ml,619,$7552,05-12-2023,Europe,Jessica Faulkner,Hospitals
+Drug C,Company X,Cream,500 mg,30,1779,$48563,08-08-2023,North America,Alicia Howard,Hospitals
+Drug B,Company X,Tablet,500 mg,10 ml,1727,$13672,30-12-2023,Asia,David Hill,Online Pharmacy
+Drug A,Company V,Capsule,500 mg,50 g,451,$45835,14-11-2023,Asia,Matthew Johnson,Supermarkets
+Drug C,Company X,Cream,10 mg,10 ml,1006,$31716,23-05-2024,Asia,Kimberly Murphy,Supermarkets
+Drug C,Company Y,Capsule,50 mg,100 ml,1633,$33931,18-05-2024,Europe,Tyler Brown,Pharmacy
+Drug A,Company Z,Cream,50 mg,30,128,$35258,08-11-2023,North America,Sheila Coleman,Online Pharmacy
+Drug C,Company V,Injection,500 mg,10 ml,504,$36459,19-08-2023,Europe,Douglas Rodriguez,Pharmacy
+Drug E,Company V,Cream,500 mg,100 ml,216,$32152,08-07-2024,Europe,Brandi King,Pharmacy
+Drug E,Company V,Injection,10 mg,10 ml,1986,$13538,03-12-2023,Europe,Susan Brewer,Pharmacy
+Drug A,Company W,Cream,50 mg,30,1977,$9566,13-07-2024,Africa,Latoya Wright,Online Pharmacy
+Drug A,Company V,Tablet,100 mg/ml,50 g,1320,$29932,22-08-2023,North America,Richard Edwards,Clinics
+Drug E,Company W,Cream,10 mg,30,1766,$45608,27-02-2024,South America,Mr. Michael Taylor,Pharmacy
+Drug B,Company X,Syrup,100 mg/ml,60,1078,$42394,12-01-2024,South America,Angela Castro,Online Pharmacy
+Drug C,Company X,Injection,500 mg,60,783,$48016,24-01-2024,Asia,Christie Brown,Clinics
+Drug E,Company X,Capsule,100 mg/ml,60,1161,$11048,08-01-2024,Europe,Annette Fisher,Clinics
+Drug A,Company X,Capsule,50 mg,50 g,1820,$16952,15-03-2024,Africa,Katelyn Smith,Hospitals
+Drug D,Company V,Tablet,50 mg,60,147,$28543,25-05-2024,Africa,Crystal Lawrence,Hospitals
+Drug B,Company Z,Capsule,250 mg,60,990,$5766,03-09-2023,North America,Katherine Sexton,Online Pharmacy
+Drug B,Company Z,Injection,500 mg,60,223,$23153,20-03-2024,Asia,Felicia Jones,Online Pharmacy
+Drug D,Company Z,Syrup,250 mg,50 g,855,$22920,22-01-2024,South America,Lisa Johnson,Supermarkets
+Drug C,Company X,Cream,50 mg,100 ml,968,$6595,04-12-2023,Africa,Amber Hill,Hospitals
+Drug B,Company W,Cream,10 mg,10 ml,1378,$37523,11-12-2023,South America,Rebecca Lawrence,Online Pharmacy
+Drug B,Company Z,Tablet,500 mg,100 ml,1473,$23815,22-07-2024,South America,John Smith,Supermarkets
+Drug C,Company X,Capsule,250 mg,100 ml,791,$40754,05-05-2024,Africa,Scott Jones,Hospitals
+Drug C,Company V,Tablet,10 mg,50 g,1523,$35645,12-10-2023,South America,Cynthia Cook,Clinics
+Drug E,Company W,Cream,250 mg,50 g,1214,$1820,08-03-2024,South America,Randy Dunn,Online Pharmacy
+Drug C,Company V,Injection,250 mg,60,440,$13578,27-06-2024,Asia,Michael Cisneros,Hospitals
+Drug D,Company Y,Syrup,10 mg,60,1574,$47682,14-04-2024,Africa,Crystal Keller,Supermarkets
+Drug A,Company W,Cream,250 mg,50 g,1880,$41604,04-01-2024,North America,Christina Lopez,Pharmacy
+Drug E,Company Z,Tablet,100 mg/ml,10 ml,383,$21024,07-01-2024,South America,Christopher Taylor,Hospitals
+Drug E,Company Y,Injection,10 mg,10 ml,253,$18363,16-06-2024,South America,Lisa Alvarado,Online Pharmacy
+Drug C,Company Y,Syrup,100 mg/ml,30,1818,$2347,29-01-2024,Africa,Kerry Oneill,Online Pharmacy
+Drug E,Company Z,Tablet,250 mg,50 g,1351,$41781,02-10-2023,Asia,Stephanie Collins,Clinics
+Drug B,Company Y,Syrup,50 mg,10 ml,1904,$34028,06-09-2023,Africa,Brian Williams,Hospitals
+Drug B,Company W,Injection,100 mg/ml,10 ml,1954,$6369,12-09-2023,Africa,Laura Vance,Supermarkets
+Drug A,Company V,Capsule,100 mg/ml,60,1042,$18788,30-10-2023,Europe,Sierra Edwards,Clinics
+Drug D,Company V,Cream,250 mg,10 ml,1564,$22868,21-09-2023,South America,Lisa Hunter,Supermarkets
+Drug C,Company Y,Syrup,100 mg/ml,100 ml,1741,$16211,08-04-2024,Africa,Jeffrey Lane,Clinics
+Drug C,Company V,Syrup,250 mg,50 g,565,$32496,07-11-2023,South America,Terri Floyd,Supermarkets
+Drug C,Company V,Capsule,500 mg,50 g,293,$40588,21-05-2024,North America,Patrick Valenzuela,Supermarkets
+Drug E,Company Y,Capsule,500 mg,10 ml,1032,$23173,04-02-2024,Africa,Todd Roberts,Supermarkets
+Drug A,Company Z,Capsule,250 mg,10 ml,1315,$3801,27-12-2023,South America,Jessica Donovan,Clinics
+Drug B,Company X,Syrup,100 mg/ml,60,1499,$18175,21-08-2023,Europe,Sean Smith,Pharmacy
+Drug B,Company Z,Capsule,250 mg,50 g,1427,$1053,25-07-2024,Europe,Laura Brown,Clinics
+Drug A,Company V,Syrup,500 mg,60,1044,$29042,12-11-2023,North America,Dr. Michael Ortiz,Hospitals
+Drug B,Company W,Cream,10 mg,60,257,$28677,08-12-2023,Africa,Paul Valdez,Online Pharmacy
+Drug A,Company V,Capsule,50 mg,30,1768,$40547,03-12-2023,Africa,Cassandra Diaz,Hospitals
+Drug B,Company X,Syrup,250 mg,50 g,654,$16542,13-11-2023,Asia,Matthew Richards,Hospitals
+Drug C,Company Z,Tablet,100 mg/ml,60,1137,$33706,17-07-2024,North America,Travis Gonzalez,Hospitals
+Drug E,Company X,Capsule,10 mg,30,739,$38821,08-12-2023,South America,Sandra Murray,Pharmacy
+Drug A,Company X,Capsule,10 mg,100 ml,1610,$5779,29-09-2023,North America,Tammy Harper,Pharmacy
+Drug D,Company V,Syrup,500 mg,60,1703,$7678,02-02-2024,Africa,Dwayne Johnson,Hospitals
+Drug B,Company Y,Cream,250 mg,60,1639,$15878,15-09-2023,Europe,Mary Dorsey,Pharmacy
+Drug B,Company W,Capsule,10 mg,100 ml,1219,$48415,28-03-2024,South America,Brian Beasley,Supermarkets
+Drug A,Company X,Syrup,50 mg,100 ml,871,$41051,01-01-2024,Asia,Russell Wong,Hospitals
+Drug C,Company W,Cream,250 mg,50 g,995,$17900,08-02-2024,South America,Jason Levy,Online Pharmacy
+Drug B,Company X,Injection,250 mg,30,1446,$37654,30-11-2023,Africa,Lindsey Shepherd,Hospitals
+Drug B,Company X,Tablet,10 mg,60,1269,$22319,20-11-2023,North America,Matthew Nolan,Online Pharmacy
+Drug A,Company W,Syrup,50 mg,10 ml,1232,$19247,26-03-2024,Europe,Stephen Schroeder,Hospitals
+Drug A,Company X,Tablet,50 mg,30,814,$25411,23-12-2023,South America,Jennifer Taylor,Online Pharmacy
+Drug B,Company V,Syrup,10 mg,100 ml,157,$3809,23-04-2024,South America,John Ewing,Supermarkets
+Drug A,Company Y,Syrup,10 mg,30,272,$39524,09-07-2024,South America,Kimberly Blackburn,Pharmacy
+Drug B,Company W,Cream,500 mg,50 g,1222,$19740,18-11-2023,South America,Michael Jones,Pharmacy
+Drug D,Company X,Capsule,250 mg,10 ml,151,$18797,10-02-2024,Europe,Jacob Salinas,Hospitals
+Drug D,Company V,Capsule,500 mg,10 ml,798,$23785,03-07-2024,South America,Brianna Alexander,Online Pharmacy
+Drug A,Company W,Injection,50 mg,10 ml,310,$31204,19-08-2023,South America,Patricia Gonzales,Online Pharmacy
+Drug B,Company X,Tablet,50 mg,10 ml,1280,$45096,19-06-2024,Europe,Caitlyn Juarez,Online Pharmacy
+Drug C,Company V,Syrup,100 mg/ml,50 g,1776,$30640,14-06-2024,Europe,Willie Horn,Pharmacy
+Drug E,Company Y,Cream,500 mg,30,784,$25665,05-05-2024,South America,Tracy Bond,Hospitals
+Drug A,Company Y,Injection,250 mg,60,1936,$40605,29-11-2023,Africa,Mark Martin,Online Pharmacy
+Drug D,Company V,Cream,10 mg,50 g,1675,$29315,07-11-2023,Africa,William Wolf MD,Pharmacy
+Drug E,Company X,Capsule,500 mg,100 ml,906,$10256,21-08-2023,South America,Kelsey Phillips,Online Pharmacy
+Drug C,Company X,Cream,10 mg,60,873,$44797,23-09-2023,North America,Corey Weaver,Hospitals
+Drug C,Company V,Cream,250 mg,30,1227,$37132,09-05-2024,South America,Brendan Garza,Pharmacy
+Drug C,Company Y,Capsule,500 mg,30,1921,$8234,29-07-2023,South America,Jeanette Vasquez,Pharmacy
+Drug A,Company Z,Syrup,500 mg,10 ml,1907,$11906,05-04-2024,Asia,Jeffrey Rivera,Online Pharmacy
+Drug D,Company Y,Cream,10 mg,60,1766,$36835,17-03-2024,Africa,Brandy Henderson,Pharmacy
+Drug A,Company X,Syrup,250 mg,60,793,$45468,26-11-2023,Africa,Robert Jones,Hospitals
+Drug A,Company W,Cream,50 mg,100 ml,1738,$22945,21-02-2024,South America,Jason Caldwell,Supermarkets
+Drug C,Company Z,Tablet,250 mg,100 ml,1088,$46398,08-07-2024,South America,Cynthia Thomas,Online Pharmacy
+Drug C,Company W,Injection,250 mg,100 ml,643,$1303,09-06-2024,Africa,Alicia Lambert,Hospitals
+Drug D,Company X,Syrup,250 mg,10 ml,1498,$33259,27-07-2024,South America,Michelle Abbott,Hospitals
+Drug E,Company V,Injection,250 mg,30,1558,$8553,15-12-2023,Asia,Robin Roth,Hospitals
+Drug D,Company Y,Capsule,50 mg,30,1423,$28304,27-12-2023,Asia,Emily Mills,Online Pharmacy
+Drug D,Company V,Capsule,100 mg/ml,10 ml,1777,$33795,11-02-2024,South America,Michael Roberson,Pharmacy
+Drug E,Company V,Tablet,250 mg,100 ml,1908,$34115,03-11-2023,Asia,Heather Adams,Clinics
+Drug C,Company X,Capsule,10 mg,100 ml,1291,$30051,07-01-2024,Europe,Anna Ford,Pharmacy
+Drug A,Company V,Tablet,50 mg,10 ml,1702,$29950,13-08-2023,South America,Brian Greer,Pharmacy
+Drug E,Company Z,Injection,500 mg,60,1367,$30714,13-04-2024,Africa,Joshua Gomez,Pharmacy
+Drug D,Company V,Tablet,100 mg/ml,30,1583,$45689,27-08-2023,Asia,Michael Orr,Supermarkets
+Drug E,Company V,Capsule,500 mg,100 ml,848,$35016,15-03-2024,South America,Elizabeth Powell,Supermarkets
+Drug B,Company Y,Syrup,10 mg,100 ml,1886,$11515,10-06-2024,North America,Steven Decker,Supermarkets
+Drug D,Company V,Tablet,250 mg,50 g,1391,$49897,17-09-2023,South America,Lisa Friedman,Supermarkets
+Drug C,Company Z,Injection,250 mg,60,536,$12572,07-10-2023,Africa,Jeremy Brandt,Online Pharmacy
+Drug B,Company Z,Injection,500 mg,60,1999,$40809,16-03-2024,South America,Cheryl Campbell,Pharmacy
+Drug D,Company Z,Tablet,250 mg,10 ml,1192,$39757,20-07-2024,Africa,Emily Turner,Clinics
+Drug D,Company W,Cream,250 mg,50 g,846,$2237,06-10-2023,North America,Cheryl Morris,Pharmacy
+Drug A,Company X,Injection,500 mg,10 ml,731,$35093,23-10-2023,Africa,Richard Mendoza,Pharmacy
+Drug A,Company W,Tablet,100 mg/ml,30,1943,$44592,19-05-2024,Asia,Isabel Whitaker,Pharmacy
+Drug A,Company Y,Capsule,100 mg/ml,60,1017,$29700,18-10-2023,Asia,Darryl Nicholson,Hospitals
+Drug A,Company X,Cream,500 mg,10 ml,929,$37018,23-07-2024,North America,Patricia Mclean,Clinics
+Drug D,Company Z,Capsule,10 mg,60,811,$44885,20-11-2023,South America,Raymond Scott,Online Pharmacy
+Drug E,Company Y,Syrup,500 mg,60,820,$14086,31-01-2024,Africa,Cindy Diaz,Online Pharmacy
+Drug A,Company X,Syrup,100 mg/ml,60,698,$27380,26-07-2024,Africa,Timothy Bradley,Online Pharmacy
+Drug C,Company Y,Capsule,250 mg,10 ml,679,$35477,02-07-2024,South America,Chad Lewis,Supermarkets
+Drug C,Company V,Capsule,10 mg,50 g,1225,$47265,24-12-2023,South America,Ashley White,Pharmacy
+Drug B,Company W,Syrup,250 mg,60,1913,$37244,06-12-2023,Africa,Emily Scott,Hospitals
+Drug B,Company W,Tablet,100 mg/ml,10 ml,1381,$43046,28-07-2024,Europe,Kelly Berry,Online Pharmacy
+Drug A,Company W,Injection,100 mg/ml,50 g,939,$37589,02-12-2023,Asia,Michael Miller,Supermarkets
+Drug B,Company Z,Injection,10 mg,10 ml,472,$7516,06-02-2024,South America,Brian Coleman,Online Pharmacy
+Drug C,Company Y,Syrup,100 mg/ml,100 ml,405,$19413,05-03-2024,Asia,James Sexton,Online Pharmacy
+Drug E,Company Z,Cream,50 mg,10 ml,383,$9225,21-10-2023,North America,Mitchell Butler,Online Pharmacy
+Drug C,Company Z,Syrup,100 mg/ml,10 ml,1863,$35677,11-03-2024,South America,Jeremy Mcdaniel,Hospitals
+Drug E,Company V,Syrup,10 mg,100 ml,469,$9657,15-07-2024,South America,Heidi Joseph,Clinics
+Drug A,Company Y,Injection,50 mg,50 g,1296,$14169,22-02-2024,Europe,Caitlyn Smith,Hospitals
+Drug D,Company V,Tablet,250 mg,60,1350,$24407,13-05-2024,South America,Robert Brown,Hospitals
+Drug B,Company V,Tablet,10 mg,50 g,930,$3721,11-02-2024,Europe,Catherine Porter,Online Pharmacy
+Drug C,Company V,Capsule,10 mg,10 ml,1185,$43131,03-03-2024,Asia,Angela Pierce,Clinics
+Drug E,Company V,Capsule,50 mg,60,179,$37526,20-10-2023,South America,Jason Taylor,Supermarkets
+Drug B,Company Y,Injection,10 mg,30,1859,$27781,09-01-2024,South America,Stephen Rodriguez,Pharmacy
+Drug D,Company V,Capsule,50 mg,60,1089,$6993,16-09-2023,Africa,Lisa Gross,Online Pharmacy
+Drug A,Company Y,Tablet,10 mg,10 ml,1428,$38657,09-10-2023,Africa,Wyatt Norris,Online Pharmacy
+Drug A,Company X,Syrup,500 mg,10 ml,431,$42644,11-02-2024,Africa,Victoria Maldonado,Supermarkets
+Drug B,Company Z,Capsule,50 mg,50 g,1670,$44138,10-03-2024,Africa,Stacey Jordan,Hospitals
+Drug D,Company Y,Tablet,100 mg/ml,100 ml,206,$5211,05-05-2024,North America,Isabella Alvarado,Hospitals
+Drug A,Company X,Cream,100 mg/ml,100 ml,1499,$42504,02-11-2023,South America,Anna Griffin,Pharmacy
+Drug B,Company X,Cream,500 mg,60,1503,$24284,14-06-2024,North America,Jason Sanders,Online Pharmacy
+Drug A,Company Z,Syrup,250 mg,60,1473,$49653,23-09-2023,North America,Kevin Sanford,Online Pharmacy
+Drug D,Company V,Capsule,100 mg/ml,10 ml,1294,$14645,15-06-2024,South America,Corey Miller,Pharmacy
+Drug E,Company Y,Syrup,500 mg,100 ml,1337,$21269,13-01-2024,Europe,Ronald Caldwell,Clinics
+Drug B,Company X,Tablet,100 mg/ml,50 g,580,$15529,18-07-2024,South America,Andre Castillo,Hospitals
+Drug D,Company V,Tablet,500 mg,60,1872,$30435,12-08-2023,Africa,Jessica Nelson,Pharmacy
+Drug A,Company W,Capsule,500 mg,10 ml,532,$28042,05-08-2023,South America,Darin Smith,Clinics
+Drug A,Company Z,Tablet,100 mg/ml,100 ml,181,$32650,18-05-2024,North America,Carmen Bailey,Supermarkets
+Drug B,Company V,Capsule,500 mg,10 ml,422,$32388,02-12-2023,Europe,Kristopher Martinez,Online Pharmacy
+Drug D,Company V,Cream,500 mg,100 ml,892,$9396,14-12-2023,South America,Joseph Brewer,Clinics
+Drug A,Company X,Cream,250 mg,30,1964,$11786,21-05-2024,Asia,Michael Guzman,Supermarkets
+Drug C,Company Z,Tablet,250 mg,30,1698,$19170,29-07-2023,Europe,Theresa Hansen,Pharmacy
+Drug B,Company X,Cream,500 mg,60,1222,$28574,19-12-2023,North America,Daniel Murillo,Clinics
+Drug B,Company V,Syrup,50 mg,10 ml,604,$38185,10-03-2024,South America,Jake Cook,Supermarkets
+Drug E,Company Z,Cream,250 mg,50 g,1811,$42397,08-08-2023,Asia,Gary Grant,Online Pharmacy
+Drug C,Company Y,Injection,250 mg,60,560,$42407,14-05-2024,Europe,Don Brown,Pharmacy
+Drug C,Company X,Tablet,250 mg,10 ml,862,$49311,25-03-2024,Europe,Shelby Johnson,Online Pharmacy
+Drug E,Company Z,Tablet,500 mg,50 g,1017,$21123,14-03-2024,Africa,Virginia Phillips,Clinics
+Drug C,Company W,Cream,250 mg,30,1468,$32204,27-03-2024,South America,Melissa Kennedy,Online Pharmacy
+Drug E,Company W,Syrup,10 mg,30,1647,$21201,08-02-2024,North America,Patricia Norris,Clinics
+Drug A,Company V,Tablet,250 mg,30,254,$43256,31-08-2023,Africa,Taylor Barnes,Pharmacy
+Drug D,Company Z,Syrup,50 mg,10 ml,1661,$8678,06-04-2024,Africa,Christina Montoya,Clinics
+Drug B,Company Y,Syrup,10 mg,100 ml,1446,$49381,16-03-2024,Asia,Brittney Gonzales,Supermarkets
+Drug D,Company V,Syrup,10 mg,100 ml,936,$48645,29-07-2023,Asia,Stephanie Williams,Supermarkets
+Drug B,Company W,Injection,500 mg,30,1623,$21818,14-05-2024,South America,Hayden Rodriguez,Pharmacy
+Drug A,Company V,Cream,50 mg,30,1318,$7513,03-07-2024,South America,Susan Mccoy,Supermarkets
+Drug C,Company V,Injection,100 mg/ml,30,123,$4294,09-01-2024,Asia,Keith Payne,Hospitals
+Drug D,Company Y,Tablet,50 mg,30,1466,$24941,22-07-2024,Africa,John Lindsey,Supermarkets
+Drug D,Company Z,Cream,50 mg,60,390,$46339,10-08-2023,Africa,Hannah Long,Clinics
+Drug C,Company V,Syrup,250 mg,50 g,1586,$9800,13-05-2024,Asia,Kevin Gates,Supermarkets
+Drug D,Company Y,Syrup,500 mg,10 ml,739,$48204,06-02-2024,North America,Ricky Garner,Pharmacy
+Drug C,Company Y,Capsule,10 mg,10 ml,1267,$19752,18-04-2024,Europe,Elizabeth Lopez,Online Pharmacy
+Drug C,Company V,Tablet,250 mg,30,1834,$37074,12-07-2024,Asia,Gary Valencia,Online Pharmacy
+Drug A,Company Y,Cream,250 mg,10 ml,667,$7794,02-04-2024,Africa,Emily Brown,Hospitals
+Drug D,Company Z,Injection,10 mg,60,1360,$33904,30-08-2023,Africa,Richard Stewart,Pharmacy
+Drug E,Company X,Tablet,50 mg,60,1124,$15758,01-11-2023,North America,Aaron Cline,Pharmacy
+Drug E,Company W,Tablet,250 mg,60,236,$46906,26-08-2023,Europe,Joshua Phillips,Hospitals
+Drug C,Company X,Tablet,50 mg,60,1134,$13081,17-03-2024,Africa,Tammy Wolfe,Clinics
+Drug C,Company Z,Injection,250 mg,100 ml,1262,$23680,05-08-2023,Africa,Catherine Henry,Supermarkets
+Drug B,Company Z,Capsule,100 mg/ml,10 ml,153,$19965,10-10-2023,North America,Tiffany Lane,Pharmacy
+Drug A,Company W,Injection,500 mg,50 g,1159,$49694,29-04-2024,South America,Jodi Lowe,Supermarkets
+Drug E,Company Z,Injection,500 mg,30,575,$42355,18-08-2023,South America,James Elliott,Pharmacy
+Drug A,Company X,Capsule,250 mg,60,189,$45637,04-08-2023,Africa,Cody Williams,Pharmacy
+Drug E,Company W,Capsule,250 mg,60,1132,$46407,12-01-2024,Europe,Brian Sanchez,Clinics
+Drug C,Company X,Injection,100 mg/ml,100 ml,411,$37320,19-05-2024,North America,Teresa Taylor,Clinics
+Drug D,Company Z,Syrup,50 mg,100 ml,165,$26575,13-12-2023,South America,Dana Sharp,Pharmacy
+Drug A,Company Y,Injection,100 mg/ml,100 ml,1178,$33005,15-09-2023,Europe,Kevin Boyle,Supermarkets
+Drug C,Company Y,Tablet,100 mg/ml,100 ml,526,$43392,10-01-2024,Africa,Dennis Wilson,Supermarkets
+Drug D,Company Y,Syrup,250 mg,100 ml,1084,$34603,20-11-2023,South America,Darrell Parsons,Pharmacy
+Drug D,Company Y,Capsule,50 mg,50 g,574,$27787,26-09-2023,North America,Charles Roberson,Pharmacy
+Drug A,Company Y,Tablet,100 mg/ml,100 ml,1915,$41152,18-11-2023,North America,Jodi Reed,Online Pharmacy
+Drug E,Company V,Cream,50 mg,100 ml,686,$47207,08-05-2024,South America,Lisa Williams,Hospitals
+Drug C,Company V,Injection,100 mg/ml,10 ml,489,$31891,08-07-2024,South America,Meagan Braun,Supermarkets
+Drug A,Company Y,Syrup,500 mg,60,1995,$25257,23-11-2023,South America,Michael Gibson,Pharmacy
+Drug E,Company X,Syrup,500 mg,100 ml,1454,$28319,26-04-2024,Asia,Mark Rivas,Clinics
+Drug C,Company W,Tablet,10 mg,10 ml,221,$20149,16-09-2023,Europe,Paul Sullivan,Pharmacy
+Drug B,Company W,Tablet,100 mg/ml,100 ml,449,$20979,12-01-2024,Europe,Mr. Kevin Larson,Pharmacy
+Drug B,Company Z,Injection,500 mg,60,1180,$24090,06-03-2024,South America,George White,Supermarkets
+Drug A,Company W,Tablet,50 mg,30,898,$10545,21-08-2023,Asia,John Davis,Pharmacy
+Drug A,Company W,Cream,10 mg,60,967,$37020,10-05-2024,Asia,Kevin Clark,Supermarkets
+Drug A,Company W,Injection,50 mg,60,909,$12714,18-02-2024,Africa,John Orozco,Online Pharmacy
+Drug A,Company Z,Capsule,100 mg/ml,100 ml,654,$8859,01-12-2023,Asia,Danielle Thomas,Hospitals
+Drug C,Company V,Injection,500 mg,30,883,$14721,24-09-2023,South America,Yolanda Sims,Clinics
+Drug B,Company W,Cream,100 mg/ml,100 ml,565,$4821,30-01-2024,Europe,John Allen,Clinics
+Drug B,Company V,Capsule,250 mg,50 g,933,$26268,07-05-2024,North America,Larry Dunn,Hospitals
+Drug C,Company W,Injection,100 mg/ml,10 ml,1793,$12451,24-06-2024,Africa,Robert Clark,Online Pharmacy
+Drug E,Company V,Syrup,500 mg,100 ml,697,$19171,25-02-2024,Asia,Pamela Benson,Pharmacy
+Drug D,Company V,Cream,250 mg,30,379,$45953,01-11-2023,Asia,Emily Wright,Supermarkets
+Drug D,Company Y,Injection,10 mg,60,1640,$18487,05-10-2023,South America,Robert Johnson,Clinics
+Drug C,Company X,Syrup,500 mg,10 ml,244,$29056,07-01-2024,Asia,Phillip Turner,Supermarkets
+Drug C,Company Z,Tablet,10 mg,60,482,$4566,30-09-2023,Asia,Antonio Murphy,Online Pharmacy
+Drug B,Company Y,Injection,500 mg,60,982,$5040,30-12-2023,Asia,Erin Cline,Hospitals
+Drug D,Company X,Tablet,100 mg/ml,100 ml,401,$33003,10-11-2023,Asia,Jessica Morris,Hospitals
+Drug C,Company X,Capsule,100 mg/ml,60,1315,$13838,07-02-2024,South America,Stephen Smith,Clinics
+Drug B,Company W,Capsule,500 mg,10 ml,1986,$21856,15-01-2024,South America,Kayla Meyer,Pharmacy
+Drug A,Company W,Cream,10 mg,100 ml,626,$41156,23-11-2023,North America,Cynthia Phillips,Pharmacy
+Drug D,Company V,Tablet,50 mg,30,817,$41978,24-10-2023,Europe,James Smith,Clinics
+Drug A,Company W,Syrup,50 mg,10 ml,1540,$46616,12-05-2024,Europe,Jacob Spencer,Clinics
+Drug B,Company Y,Cream,50 mg,60,1352,$9133,11-01-2024,Africa,Joseph Marks,Supermarkets
+Drug C,Company X,Injection,100 mg/ml,10 ml,428,$26054,10-09-2023,Asia,James Campbell,Pharmacy
+Drug D,Company Z,Injection,250 mg,60,1934,$41356,21-04-2024,South America,Kristina Simpson,Hospitals
+Drug C,Company Z,Capsule,10 mg,50 g,1826,$2719,06-01-2024,South America,Cody Robbins,Supermarkets
+Drug E,Company Z,Tablet,50 mg,10 ml,594,$11887,28-08-2023,Africa,Karen Buchanan,Online Pharmacy
+Drug D,Company W,Injection,250 mg,50 g,105,$36153,26-07-2024,Europe,James Haley,Pharmacy
+Drug C,Company W,Tablet,250 mg,50 g,1169,$21685,22-11-2023,South America,Sarah Hammond,Clinics
+Drug A,Company Z,Tablet,500 mg,30,1463,$49601,01-10-2023,Africa,Rebecca Jackson,Supermarkets
+Drug C,Company W,Tablet,250 mg,50 g,1091,$15021,15-06-2024,North America,Angela Nunez,Hospitals
+Drug C,Company Z,Injection,50 mg,10 ml,230,$15353,02-05-2024,Asia,Richard Gutierrez,Supermarkets
+Drug E,Company X,Cream,500 mg,30,1603,$46470,14-12-2023,Africa,Barbara Kim,Supermarkets
+Drug C,Company Y,Capsule,100 mg/ml,60,522,$32783,27-07-2024,Africa,Elizabeth Mcdaniel,Supermarkets
+Drug A,Company W,Cream,50 mg,100 ml,302,$9722,11-03-2024,Europe,Jamie Fischer,Online Pharmacy
+Drug E,Company V,Tablet,250 mg,10 ml,664,$32835,16-12-2023,North America,Andre Bauer,Pharmacy
+Drug B,Company V,Tablet,500 mg,60,1701,$36720,17-01-2024,Asia,Robert Graham,Supermarkets
+Drug B,Company W,Capsule,500 mg,30,1048,$1486,25-12-2023,Africa,Elizabeth Adams,Supermarkets
+Drug D,Company Y,Tablet,250 mg,10 ml,1570,$17354,09-08-2023,Africa,Richard Lawson,Hospitals
+Drug D,Company X,Tablet,500 mg,30,109,$17302,30-07-2023,Africa,Christopher Fischer,Supermarkets
+Drug D,Company Z,Capsule,100 mg/ml,10 ml,141,$19153,28-10-2023,Europe,Jasmine Day,Supermarkets
+Drug B,Company X,Cream,10 mg,60,1239,$36616,06-01-2024,Africa,Lisa Cordova,Clinics
+Drug D,Company X,Tablet,50 mg,60,1499,$4766,13-06-2024,Africa,Alejandro Bishop,Online Pharmacy
+Drug D,Company X,Tablet,10 mg,60,1869,$25748,05-11-2023,South America,David Anderson,Online Pharmacy
+Drug C,Company W,Syrup,100 mg/ml,30,1355,$27880,07-03-2024,South America,Sara Chapman,Clinics
+Drug C,Company V,Capsule,100 mg/ml,30,1173,$8649,09-01-2024,South America,Kevin Wilson,Online Pharmacy
+Drug D,Company Z,Syrup,10 mg,60,828,$30214,25-06-2024,North America,Edward Silva,Pharmacy
+Drug C,Company W,Syrup,100 mg/ml,30,453,$10749,25-11-2023,Europe,Erika Robinson,Supermarkets
+Drug C,Company Y,Injection,250 mg,50 g,132,$17487,28-12-2023,Asia,Lauren Baker,Supermarkets
+Drug A,Company W,Cream,100 mg/ml,100 ml,620,$32593,01-11-2023,Asia,Christopher Wilson,Hospitals
+Drug E,Company X,Tablet,10 mg,50 g,1423,$21911,06-04-2024,Africa,Steven Bray,Hospitals
+Drug B,Company Z,Cream,500 mg,50 g,1308,$16623,26-07-2024,South America,Sharon Carter,Clinics
+Drug E,Company Y,Injection,500 mg,60,460,$29993,16-03-2024,Africa,Gregg Yu,Pharmacy
+Drug B,Company Z,Injection,50 mg,10 ml,1598,$43114,20-01-2024,North America,Bradley Pennington,Online Pharmacy
+Drug E,Company W,Tablet,100 mg/ml,50 g,978,$46578,30-11-2023,Europe,Angelica Hensley,Hospitals
+Drug B,Company Z,Tablet,50 mg,100 ml,1484,$15499,27-05-2024,North America,Benjamin Holloway,Pharmacy
+Drug A,Company V,Cream,500 mg,100 ml,1807,$37740,11-09-2023,South America,Michael Williams,Clinics
+Drug D,Company Z,Tablet,100 mg/ml,50 g,1197,$36217,28-02-2024,South America,William Ford,Online Pharmacy
+Drug A,Company X,Injection,100 mg/ml,30,1169,$33004,11-06-2024,South America,Miss Elizabeth Evans,Online Pharmacy
+Drug C,Company X,Syrup,10 mg,10 ml,1713,$30761,03-09-2023,North America,James Mccarty,Online Pharmacy
+Drug D,Company X,Injection,500 mg,100 ml,1245,$32469,11-11-2023,Africa,Adam Cox,Pharmacy
+Drug B,Company X,Injection,10 mg,50 g,454,$37133,19-01-2024,Europe,Brandon Cooper,Online Pharmacy
+Drug C,Company Y,Cream,10 mg,30,1550,$45767,09-09-2023,North America,Cathy Gonzalez,Online Pharmacy
+Drug D,Company V,Syrup,50 mg,100 ml,1488,$19770,11-07-2024,North America,Mrs. Hailey Johnson DDS,Online Pharmacy
+Drug B,Company V,Syrup,250 mg,30,1207,$29546,08-11-2023,Europe,Austin Martinez,Pharmacy
+Drug E,Company W,Injection,500 mg,30,751,$46620,16-04-2024,Europe,Stephanie Davis,Clinics
+Drug A,Company V,Injection,100 mg/ml,60,1388,$44954,26-01-2024,Africa,Erica Bass,Clinics
+Drug D,Company X,Tablet,100 mg/ml,100 ml,712,$24140,18-11-2023,Africa,Jonathan Brown,Hospitals
+Drug A,Company Y,Tablet,500 mg,100 ml,1428,$1848,09-02-2024,Asia,Zachary Miller,Hospitals
+Drug B,Company Y,Injection,250 mg,100 ml,1437,$1329,31-03-2024,South America,Dr. Laura Shaffer,Hospitals
+Drug E,Company Z,Syrup,50 mg,60,818,$34522,13-03-2024,Europe,Paul Smith,Clinics
+Drug D,Company Y,Tablet,10 mg,30,1094,$34972,11-05-2024,Europe,Stacey Hart,Online Pharmacy
+Drug C,Company W,Capsule,50 mg,60,1882,$1492,17-12-2023,South America,Dr. Sara Wilson,Hospitals
+Drug D,Company V,Tablet,250 mg,10 ml,1247,$40432,15-02-2024,Europe,Gary Lucas,Hospitals
+Drug C,Company Y,Capsule,500 mg,100 ml,1989,$14261,25-10-2023,North America,Jacqueline Greene,Hospitals
+Drug A,Company X,Cream,50 mg,100 ml,1725,$26182,18-11-2023,South America,Joseph Ross,Online Pharmacy
+Drug E,Company V,Cream,50 mg,50 g,815,$33782,05-10-2023,Asia,John Davila,Pharmacy
+Drug D,Company W,Syrup,250 mg,60,135,$40651,07-04-2024,Europe,Jerry Michael,Clinics
+Drug A,Company X,Syrup,500 mg,30,1664,$25573,23-06-2024,South America,Christina Blankenship,Online Pharmacy
+Drug D,Company V,Syrup,50 mg,50 g,1402,$31956,17-10-2023,Asia,Daniel Bryant,Clinics
+Drug B,Company X,Capsule,250 mg,10 ml,153,$30983,07-01-2024,Africa,Maria Moore,Pharmacy
+Drug B,Company X,Tablet,250 mg,60,399,$21160,04-07-2024,Europe,Danny Pennington,Hospitals
+Drug C,Company X,Cream,100 mg/ml,50 g,314,$43409,15-02-2024,North America,Geoffrey Elliott,Pharmacy
+Drug D,Company V,Cream,100 mg/ml,60,504,$46392,12-04-2024,South America,Heather Simmons,Pharmacy
+Drug B,Company W,Injection,250 mg,30,214,$10257,02-11-2023,Asia,Mark Mckinney,Hospitals
+Drug D,Company V,Capsule,10 mg,100 ml,1738,$17663,27-11-2023,Asia,Amy Dickson,Pharmacy
+Drug B,Company V,Injection,100 mg/ml,30,167,$4175,15-08-2023,North America,Bradley Dean,Clinics
+Drug A,Company X,Syrup,500 mg,30,1696,$26976,01-02-2024,South America,Dylan Warren,Pharmacy
+Drug B,Company X,Cream,10 mg,10 ml,1216,$32615,22-10-2023,South America,Ryan Thompson,Hospitals
+Drug C,Company V,Capsule,10 mg,10 ml,599,$1411,04-12-2023,North America,Alicia Flynn,Online Pharmacy
+Drug D,Company W,Cream,250 mg,30,609,$25953,06-02-2024,North America,Felicia Wallace,Pharmacy
+Drug B,Company V,Syrup,50 mg,10 ml,1199,$4779,04-06-2024,South America,Jeffrey Molina,Clinics
+Drug E,Company Z,Syrup,50 mg,50 g,1238,$30313,11-02-2024,South America,Dustin Stephenson,Hospitals
+Drug B,Company X,Cream,10 mg,60,354,$11544,25-06-2024,South America,Autumn Francis,Pharmacy
+Drug D,Company V,Cream,50 mg,10 ml,489,$48883,05-01-2024,South America,Audrey Pennington,Online Pharmacy
+Drug A,Company Z,Tablet,500 mg,10 ml,1042,$34649,13-07-2024,North America,Thomas Chapman,Online Pharmacy
+Drug B,Company Z,Capsule,100 mg/ml,60,392,$33170,10-06-2024,Europe,David Johnson,Pharmacy
+Drug D,Company Y,Injection,500 mg,100 ml,786,$22000,01-04-2024,Asia,Donna Lucas,Online Pharmacy
+Drug A,Company V,Tablet,50 mg,100 ml,1347,$29744,19-07-2024,South America,Michael Robinson,Hospitals
+Drug B,Company Y,Syrup,50 mg,60,499,$14526,10-04-2024,North America,Austin Martin,Hospitals
+Drug E,Company Y,Capsule,50 mg,60,489,$25559,22-12-2023,South America,Julie Ferguson,Online Pharmacy
+Drug E,Company W,Capsule,250 mg,30,963,$24965,04-10-2023,Europe,Justin Coffey,Hospitals
+Drug A,Company Y,Cream,250 mg,100 ml,1650,$36514,26-06-2024,Europe,Daniel Kelly,Hospitals
+Drug B,Company Z,Capsule,500 mg,100 ml,1826,$46602,10-07-2024,Asia,Leah Miller,Supermarkets
+Drug D,Company V,Cream,500 mg,60,608,$28326,05-05-2024,North America,Amy Jackson,Clinics
+Drug C,Company Y,Tablet,500 mg,100 ml,297,$20215,19-06-2024,Europe,Brian Dennis,Pharmacy
+Drug C,Company Y,Cream,250 mg,60,1095,$23543,13-09-2023,South America,Elizabeth Branch,Clinics
+Drug D,Company Z,Tablet,10 mg,30,1585,$34365,25-03-2024,Europe,Rebecca Baker,Hospitals
+Drug E,Company W,Injection,500 mg,50 g,749,$13462,26-08-2023,Europe,Ryan Beck,Clinics
+Drug B,Company X,Capsule,10 mg,50 g,1666,$32893,30-09-2023,North America,Annette Bartlett,Clinics
+Drug A,Company W,Cream,50 mg,60,371,$25596,01-03-2024,Europe,Cameron Garcia,Online Pharmacy
+Drug D,Company Y,Syrup,250 mg,100 ml,1663,$20214,09-12-2023,South America,Carlos Sawyer,Hospitals
+Drug E,Company Z,Tablet,500 mg,50 g,698,$1522,03-08-2023,North America,Anthony Bell,Hospitals
+Drug B,Company Y,Tablet,500 mg,50 g,1595,$16585,13-07-2024,Asia,Adam Brown,Online Pharmacy
+Drug E,Company Y,Injection,100 mg/ml,60,1474,$32199,09-01-2024,South America,Phyllis Robertson,Clinics
+Drug B,Company V,Cream,250 mg,10 ml,1611,$37594,04-06-2024,North America,Justin Hamilton,Pharmacy
+Drug E,Company V,Injection,10 mg,10 ml,1876,$26559,28-08-2023,South America,Lucas Dunn,Online Pharmacy
+Drug C,Company Z,Cream,500 mg,60,939,$22379,22-04-2024,Asia,Aaron Douglas,Online Pharmacy
+Drug A,Company V,Cream,50 mg,60,1075,$41442,11-05-2024,Europe,Gregory Ross,Hospitals
+Drug B,Company Y,Syrup,10 mg,30,868,$41228,19-06-2024,Europe,Corey Wong,Online Pharmacy
+Drug E,Company X,Cream,50 mg,10 ml,1135,$42632,26-03-2024,Africa,Bobby Price,Online Pharmacy
+Drug E,Company W,Capsule,250 mg,30,1780,$28351,28-09-2023,Asia,Nicole Jones,Supermarkets
+Drug D,Company V,Injection,100 mg/ml,10 ml,833,$42915,02-04-2024,Asia,Bonnie Thompson,Clinics
+Drug B,Company Z,Syrup,250 mg,10 ml,1134,$26634,26-03-2024,Asia,Dawn Rogers,Hospitals
+Drug A,Company Y,Cream,50 mg,100 ml,1706,$21681,03-08-2023,Europe,Robert Kelley,Hospitals
+Drug C,Company Z,Cream,250 mg,10 ml,1395,$22835,08-02-2024,Europe,Anna Jordan,Supermarkets
+Drug E,Company X,Tablet,10 mg,100 ml,1693,$31240,26-06-2024,South America,Seth Jenkins,Online Pharmacy
+Drug E,Company Y,Syrup,10 mg,30,1549,$9455,23-02-2024,Europe,Tiffany Brown,Pharmacy
+Drug E,Company X,Cream,10 mg,10 ml,100,$32910,29-10-2023,North America,Michael Ortiz,Hospitals
+Drug B,Company V,Cream,50 mg,50 g,826,$24350,10-11-2023,North America,Lauren Brown,Clinics
+Drug C,Company W,Cream,500 mg,50 g,1308,$17828,13-01-2024,Asia,Barbara Richard,Supermarkets
+Drug B,Company Y,Capsule,500 mg,100 ml,1691,$37249,25-10-2023,North America,Haley Maldonado,Supermarkets
+Drug B,Company Z,Syrup,10 mg,10 ml,1028,$7222,01-04-2024,Africa,Timothy Crosby,Supermarkets
+Drug D,Company Y,Cream,100 mg/ml,30,1134,$5856,03-11-2023,North America,Robin Benton,Hospitals
+Drug A,Company V,Cream,250 mg,50 g,1503,$19148,26-06-2024,Asia,Mr. David Bennett,Pharmacy
+Drug A,Company W,Tablet,500 mg,10 ml,1509,$30615,09-12-2023,Europe,Alexander Maynard,Hospitals
+Drug D,Company V,Syrup,10 mg,10 ml,578,$33113,17-02-2024,Asia,Julia Stevens,Clinics
+Drug C,Company V,Cream,250 mg,10 ml,1195,$42794,09-09-2023,North America,Kimberly Stewart,Online Pharmacy
+Drug D,Company Y,Injection,50 mg,60,485,$29314,01-03-2024,North America,Rachel Allen,Pharmacy
+Drug E,Company Z,Tablet,100 mg/ml,60,819,$47811,03-10-2023,South America,Tracy Erickson,Supermarkets
+Drug C,Company X,Syrup,100 mg/ml,100 ml,1654,$16660,04-04-2024,South America,William Parks,Pharmacy
+Drug D,Company W,Capsule,500 mg,60,1957,$32269,27-04-2024,Europe,Paul Morgan,Online Pharmacy
+Drug E,Company Z,Cream,50 mg,60,799,$10708,24-03-2024,Europe,Jessica Vincent,Hospitals
+Drug C,Company V,Cream,10 mg,100 ml,1532,$5489,13-04-2024,North America,Elizabeth Ray,Clinics
+Drug A,Company W,Injection,250 mg,100 ml,1786,$11345,12-09-2023,Africa,James Graham,Hospitals
+Drug B,Company Z,Syrup,50 mg,100 ml,1927,$8953,02-01-2024,Asia,Darrell Kelly,Hospitals
+Drug D,Company W,Capsule,10 mg,60,1475,$27251,24-07-2024,Africa,Richard Thomas,Online Pharmacy
+Drug C,Company X,Capsule,100 mg/ml,10 ml,290,$16582,08-05-2024,Asia,Laura Gregory,Clinics
+Drug C,Company X,Tablet,50 mg,60,677,$20916,20-03-2024,Asia,David Castro,Online Pharmacy
+Drug B,Company Y,Injection,50 mg,10 ml,1728,$30905,13-12-2023,North America,Jessica Webster,Hospitals
+Drug D,Company Y,Capsule,50 mg,10 ml,709,$16636,07-10-2023,North America,Cristina Stevens,Clinics
+Drug A,Company Y,Tablet,10 mg,60,1660,$9172,29-06-2024,North America,Lauren Bryant,Supermarkets
+Drug C,Company Z,Capsule,500 mg,60,1530,$15055,29-07-2023,Asia,Adam Shelton,Supermarkets
+Drug B,Company W,Tablet,500 mg,60,1804,$17065,22-09-2023,Asia,Ashley Pittman,Hospitals
+Drug C,Company V,Tablet,10 mg,10 ml,847,$20074,08-06-2024,North America,Miss Amy Perry,Pharmacy
+Drug D,Company Z,Injection,10 mg,50 g,1944,$25684,27-03-2024,Asia,Johnny Kim,Pharmacy
+Drug B,Company Y,Capsule,500 mg,100 ml,1882,$14779,15-06-2024,Europe,Yvonne Rogers,Pharmacy
+Drug C,Company W,Capsule,500 mg,50 g,377,$20905,28-02-2024,Europe,Mr. Kevin Duffy,Hospitals
+Drug E,Company W,Injection,100 mg/ml,50 g,1784,$11761,26-08-2023,Asia,Angela Brown,Pharmacy
+Drug C,Company X,Injection,50 mg,100 ml,1414,$29966,12-05-2024,Europe,Lauren Gilbert,Clinics
+Drug B,Company Z,Syrup,100 mg/ml,60,1782,$32047,24-12-2023,Europe,Michael Solis,Hospitals
+Drug B,Company V,Syrup,100 mg/ml,30,221,$40972,11-06-2024,Europe,Andre Skinner,Clinics
+Drug C,Company W,Syrup,10 mg,60,1221,$15799,12-09-2023,North America,Jamie Martin,Clinics
+Drug C,Company X,Cream,500 mg,60,1461,$28440,16-08-2023,Africa,Allison Alvarado,Supermarkets
+Drug D,Company Z,Syrup,100 mg/ml,100 ml,1621,$22584,13-08-2023,Asia,Amy Anderson,Online Pharmacy
+Drug A,Company Y,Capsule,50 mg,100 ml,587,$49864,13-10-2023,Africa,Ariel Brown,Supermarkets
+Drug B,Company Y,Injection,10 mg,100 ml,902,$15266,14-10-2023,South America,John Newman,Clinics
+Drug C,Company Z,Cream,10 mg,10 ml,447,$5128,24-11-2023,Asia,Jon Richardson,Supermarkets
+Drug A,Company X,Injection,100 mg/ml,60,646,$39113,10-07-2024,South America,Sarah Burnett,Pharmacy
+Drug D,Company V,Tablet,10 mg,100 ml,1135,$12514,27-08-2023,Asia,Jason Bradley,Online Pharmacy
+Drug B,Company X,Capsule,250 mg,50 g,1494,$45452,16-12-2023,Africa,Brendan Harrington,Clinics
+Drug C,Company X,Tablet,50 mg,50 g,279,$32754,14-01-2024,Africa,Danny Bernard,Hospitals
+Drug E,Company V,Syrup,50 mg,50 g,302,$20937,28-05-2024,South America,Timothy Villanueva,Supermarkets
+Drug D,Company Z,Injection,10 mg,10 ml,1306,$35777,07-05-2024,Europe,Jonathan Brown,Supermarkets
+Drug D,Company W,Capsule,500 mg,50 g,1372,$47220,27-11-2023,North America,Amy Adams,Clinics
+Drug C,Company X,Tablet,10 mg,60,873,$28524,01-10-2023,Asia,Lisa Williams,Hospitals
+Drug C,Company X,Tablet,10 mg,60,1075,$4900,21-11-2023,Asia,Casey Coleman,Supermarkets
+Drug A,Company Y,Cream,500 mg,10 ml,862,$17179,12-11-2023,Europe,Samuel Lopez,Clinics
+Drug C,Company W,Syrup,100 mg/ml,10 ml,1872,$42474,01-08-2023,Asia,Joseph Johnson,Pharmacy
+Drug E,Company V,Syrup,10 mg,50 g,1041,$45750,14-06-2024,Europe,Mark Reed,Hospitals
+Drug C,Company W,Capsule,10 mg,60,149,$40553,04-11-2023,Europe,Maurice Mcintosh,Hospitals
+Drug C,Company X,Injection,500 mg,60,996,$6016,19-06-2024,North America,Ryan Cardenas,Pharmacy
+Drug B,Company Z,Injection,500 mg,60,1890,$35859,10-11-2023,South America,Rachel Robinson,Clinics
+Drug B,Company X,Syrup,10 mg,30,770,$15607,17-10-2023,Africa,Charles Wagner,Supermarkets
+Drug E,Company Y,Injection,50 mg,30,727,$3436,01-02-2024,Europe,Donna White,Online Pharmacy
+Drug A,Company Z,Tablet,10 mg,100 ml,190,$14001,11-01-2024,Europe,Shane Burke,Supermarkets
+Drug D,Company X,Cream,500 mg,10 ml,1248,$33631,16-12-2023,Asia,Daniel Newton,Clinics
+Drug D,Company Z,Syrup,50 mg,30,1183,$39477,16-03-2024,North America,Anita Morgan,Clinics
+Drug A,Company Z,Tablet,250 mg,60,1394,$13808,17-04-2024,Asia,Sheryl Ramos,Hospitals
+Drug E,Company Z,Syrup,500 mg,100 ml,626,$28471,05-10-2023,Europe,Robert Cline,Clinics
+Drug B,Company V,Injection,10 mg,60,1394,$3360,20-06-2024,Europe,Katherine Smith,Hospitals
+Drug B,Company X,Tablet,250 mg,30,1699,$25685,20-11-2023,South America,Sarah Martin,Hospitals
+Drug E,Company W,Cream,250 mg,30,364,$20390,13-09-2023,North America,Maria Sullivan,Hospitals
+Drug B,Company X,Injection,100 mg/ml,60,1120,$22277,26-08-2023,South America,Janet Bates,Hospitals
+Drug D,Company Y,Cream,50 mg,10 ml,323,$22108,26-08-2023,North America,Jorge Garcia,Online Pharmacy
+Drug E,Company X,Capsule,500 mg,30,1394,$45719,23-09-2023,South America,Jacob Bennett,Online Pharmacy
+Drug B,Company V,Syrup,250 mg,30,515,$10882,28-03-2024,Europe,Sarah Davila,Online Pharmacy
+Drug D,Company Y,Capsule,50 mg,10 ml,1729,$26352,20-02-2024,Europe,Carolyn Rhodes,Supermarkets
+Drug E,Company X,Capsule,50 mg,30,1208,$39952,10-03-2024,South America,Erik Silva,Supermarkets
+Drug D,Company X,Syrup,10 mg,30,1657,$21133,28-03-2024,Africa,Eric Lee,Clinics
+Drug A,Company W,Syrup,500 mg,60,1572,$46966,18-10-2023,North America,David Bell,Pharmacy
+Drug A,Company Y,Injection,500 mg,60,901,$37255,25-10-2023,Africa,Raymond Aguirre,Clinics
+Drug C,Company X,Injection,100 mg/ml,100 ml,814,$11345,08-02-2024,Asia,Juan Webb,Supermarkets
+Drug E,Company X,Injection,50 mg,10 ml,1124,$18402,30-12-2023,South America,Matthew Johnson,Online Pharmacy
+Drug B,Company X,Injection,250 mg,100 ml,1609,$12823,27-06-2024,Asia,Daniel Poole,Online Pharmacy
+Drug E,Company X,Injection,250 mg,50 g,846,$39016,20-02-2024,South America,Joseph Howard,Clinics
+Drug A,Company V,Cream,250 mg,50 g,859,$49397,29-08-2023,Africa,Madison Butler,Online Pharmacy
+Drug E,Company V,Tablet,250 mg,10 ml,389,$3098,10-05-2024,Asia,Cameron Hunter,Hospitals
+Drug B,Company Z,Injection,500 mg,60,1964,$38375,24-11-2023,South America,James Smith,Clinics
+Drug A,Company Y,Injection,100 mg/ml,60,764,$2858,25-08-2023,North America,Brian Dodson,Hospitals
+Drug D,Company Y,Syrup,500 mg,30,1326,$20696,11-06-2024,North America,Savannah Brown,Clinics
+Drug E,Company Z,Cream,50 mg,50 g,229,$17960,12-03-2024,Asia,John Gates,Clinics
+Drug E,Company V,Tablet,50 mg,10 ml,1201,$15965,05-04-2024,South America,Christine Willis,Clinics
+Drug B,Company V,Tablet,500 mg,60,498,$17227,31-03-2024,South America,Rebecca Taylor,Clinics
+Drug E,Company W,Capsule,500 mg,60,1171,$1301,03-10-2023,Asia,Lauren Johnson,Pharmacy
+Drug D,Company Y,Injection,10 mg,30,429,$1770,30-05-2024,Europe,Candace Bowen,Supermarkets
+Drug A,Company Z,Capsule,50 mg,60,149,$24712,24-07-2024,Asia,Chase Melendez,Online Pharmacy
+Drug B,Company Y,Cream,250 mg,60,832,$41916,19-04-2024,South America,Mr. Austin Park,Online Pharmacy
+Drug C,Company X,Syrup,500 mg,50 g,324,$40529,16-08-2023,Africa,Wendy Cowan,Clinics
+Drug E,Company Y,Capsule,500 mg,10 ml,244,$34645,14-04-2024,South America,Shelly Ball,Clinics
+Drug E,Company Z,Syrup,50 mg,60,298,$26167,17-11-2023,Europe,Nancy Evans,Supermarkets
+Drug E,Company X,Syrup,100 mg/ml,30,1148,$49962,22-12-2023,Europe,Cathy Hooper,Clinics
+Drug E,Company Z,Syrup,250 mg,60,1090,$1972,31-12-2023,Africa,Amy Garcia,Pharmacy
+Drug B,Company V,Injection,100 mg/ml,100 ml,1944,$26394,01-05-2024,Europe,Deborah Lopez,Pharmacy
+Drug E,Company Z,Injection,10 mg,30,835,$30738,23-06-2024,Africa,Tiffany Lucas,Supermarkets
+Drug A,Company V,Injection,10 mg,100 ml,1156,$38835,14-04-2024,Europe,Karen Garcia,Pharmacy
+Drug C,Company Z,Cream,500 mg,60,728,$11807,08-01-2024,Asia,Tracy Wagner,Pharmacy
+Drug E,Company Z,Syrup,250 mg,100 ml,1706,$30997,08-11-2023,South America,Kimberly Hudson,Online Pharmacy
+Drug B,Company W,Cream,10 mg,60,1281,$18807,03-07-2024,Europe,Walter Maldonado,Clinics
+Drug A,Company Z,Capsule,100 mg/ml,30,1507,$30246,12-05-2024,North America,Tyrone Doyle,Pharmacy
+Drug C,Company W,Cream,100 mg/ml,10 ml,1337,$1231,21-09-2023,Europe,Sherry Adams,Pharmacy
+Drug E,Company Z,Capsule,100 mg/ml,60,483,$10434,12-04-2024,Asia,Brooke Russell,Supermarkets
+Drug E,Company X,Injection,250 mg,50 g,1562,$4538,27-11-2023,Europe,Stephanie Boyd,Supermarkets
+Drug A,Company Y,Syrup,250 mg,50 g,1893,$10971,09-01-2024,Africa,Thomas Vega,Clinics
+Drug B,Company X,Tablet,10 mg,10 ml,368,$16546,15-03-2024,Asia,Maria Lewis,Hospitals
+Drug A,Company Z,Cream,50 mg,50 g,1781,$2138,30-01-2024,Europe,Alexis Luna,Hospitals
+Drug D,Company X,Injection,250 mg,30,440,$20986,20-10-2023,Asia,Hannah Lynch,Clinics
+Drug E,Company Z,Syrup,100 mg/ml,100 ml,214,$43574,13-10-2023,North America,Todd Ortiz,Pharmacy
+Drug B,Company W,Tablet,500 mg,30,472,$19038,19-05-2024,North America,Wanda Salazar,Clinics
+Drug B,Company W,Tablet,50 mg,30,1484,$29949,06-04-2024,Africa,Margaret Patel,Supermarkets
+Drug C,Company X,Tablet,250 mg,100 ml,914,$34019,15-08-2023,North America,Kevin Morrow,Pharmacy
+Drug C,Company Y,Capsule,10 mg,100 ml,1423,$36260,08-11-2023,Europe,Todd Lewis,Pharmacy
+Drug A,Company Z,Tablet,500 mg,60,1566,$16223,02-02-2024,North America,Michael Hernandez,Supermarkets
+Drug C,Company Z,Syrup,10 mg,30,908,$43749,22-10-2023,Africa,Allison Duran,Online Pharmacy
+Drug A,Company X,Tablet,250 mg,60,1387,$44173,02-07-2024,North America,Angela Freeman,Pharmacy
+Drug C,Company V,Capsule,250 mg,60,755,$34127,08-11-2023,South America,Jessica Andrews,Pharmacy
+Drug A,Company V,Capsule,500 mg,100 ml,1434,$43000,25-01-2024,Asia,Jay Tate,Supermarkets
+Drug B,Company Z,Syrup,50 mg,10 ml,1286,$1777,03-11-2023,Europe,Keith Davis,Hospitals
+Drug D,Company V,Injection,500 mg,60,992,$4119,06-03-2024,Asia,Dennis Simmons,Hospitals
+Drug B,Company Z,Injection,100 mg/ml,60,130,$37525,03-05-2024,Asia,Joshua Spencer,Hospitals
+Drug C,Company W,Tablet,100 mg/ml,10 ml,1575,$15314,03-08-2023,Europe,Ronnie Becker,Pharmacy
+Drug A,Company Y,Tablet,100 mg/ml,30,634,$28930,26-08-2023,North America,Brittany Knight,Online Pharmacy
+Drug C,Company W,Cream,250 mg,100 ml,937,$1592,25-11-2023,Africa,Mrs. Tammy Ferguson,Hospitals
+Drug A,Company W,Injection,100 mg/ml,60,653,$40612,11-10-2023,South America,Daniel Flores,Clinics
+Drug E,Company W,Cream,500 mg,30,924,$12763,28-12-2023,Europe,Jocelyn Adams,Online Pharmacy
+Drug A,Company Z,Injection,100 mg/ml,10 ml,1480,$22509,18-12-2023,Africa,Ronald Lopez,Online Pharmacy
+Drug B,Company X,Cream,50 mg,30,1069,$20868,07-04-2024,Europe,Sarah Anderson,Supermarkets
+Drug B,Company W,Syrup,250 mg,30,1480,$28254,13-06-2024,Asia,Bryan Gonzalez,Supermarkets
+Drug E,Company W,Injection,50 mg,100 ml,1744,$47553,06-08-2023,North America,Steven Knox,Supermarkets
+Drug E,Company Y,Injection,250 mg,30,343,$15580,06-09-2023,Asia,Anna Shepherd,Clinics
+Drug E,Company V,Cream,100 mg/ml,50 g,1448,$36442,07-06-2024,North America,Shawn Delgado DVM,Clinics
+Drug A,Company Z,Injection,100 mg/ml,50 g,1484,$24252,22-08-2023,Asia,Debra Nichols,Pharmacy
+Drug C,Company Z,Injection,100 mg/ml,50 g,646,$39816,21-03-2024,South America,Leslie Cruz,Supermarkets
+Drug B,Company W,Injection,500 mg,100 ml,873,$19598,27-03-2024,South America,Tamara Ryan,Clinics
+Drug D,Company Z,Injection,500 mg,10 ml,507,$2658,17-11-2023,Europe,Lisa Wallace,Clinics
+Drug E,Company Z,Injection,100 mg/ml,30,1465,$22742,19-06-2024,North America,Judy Alvarado,Clinics
+Drug B,Company Z,Tablet,250 mg,50 g,917,$16758,27-02-2024,Europe,William Jones,Hospitals
+Drug E,Company W,Cream,500 mg,50 g,450,$4842,21-04-2024,Asia,Timothy Lewis,Pharmacy
+Drug D,Company V,Syrup,100 mg/ml,60,1036,$28098,02-10-2023,South America,Kristin Stewart,Clinics
+Drug D,Company W,Tablet,50 mg,30,355,$16758,04-10-2023,Asia,Michael Gaines,Online Pharmacy
+Drug E,Company Y,Capsule,10 mg,10 ml,159,$10132,13-10-2023,North America,Rebecca Turner,Pharmacy
+Drug C,Company V,Injection,100 mg/ml,30,1835,$48131,21-04-2024,South America,Kevin Johnson,Pharmacy
+Drug E,Company Y,Tablet,50 mg,30,345,$23783,15-10-2023,North America,Michelle Bowman,Online Pharmacy
+Drug C,Company Z,Capsule,100 mg/ml,30,1701,$38134,06-06-2024,North America,Michael Burch,Clinics
+Drug C,Company X,Capsule,10 mg,30,966,$29754,27-09-2023,North America,Angel Gonzalez,Pharmacy
+Drug A,Company X,Cream,50 mg,50 g,1876,$35523,21-05-2024,North America,Tammy Dunlap,Pharmacy
+Drug D,Company Z,Tablet,10 mg,100 ml,1589,$39611,16-07-2024,South America,John Ramirez,Hospitals
+Drug E,Company Z,Syrup,100 mg/ml,60,1236,$5976,10-03-2024,Asia,Peter Barron,Supermarkets
+Drug D,Company W,Capsule,100 mg/ml,30,406,$19800,06-10-2023,South America,Paige Davis,Online Pharmacy
+Drug E,Company W,Capsule,250 mg,60,1477,$42087,11-01-2024,North America,Thomas Miller,Pharmacy
+Drug C,Company Y,Syrup,100 mg/ml,100 ml,1684,$49229,09-05-2024,Europe,Miss Sara Hamilton,Online Pharmacy
+Drug C,Company Y,Cream,100 mg/ml,50 g,849,$45151,02-08-2023,Europe,Brian Little,Online Pharmacy
+Drug A,Company X,Tablet,500 mg,50 g,849,$39729,24-08-2023,South America,Charles White,Pharmacy
+Drug D,Company W,Capsule,50 mg,30,1743,$11137,30-11-2023,Asia,Elizabeth Carrillo,Clinics
+Drug E,Company Z,Injection,10 mg,50 g,359,$14269,07-11-2023,North America,Amber Garcia,Supermarkets
+Drug B,Company Z,Tablet,100 mg/ml,100 ml,573,$4115,12-06-2024,South America,Katherine Velazquez,Supermarkets
+Drug B,Company W,Cream,500 mg,10 ml,1330,$28423,16-09-2023,South America,Brian Barnes,Pharmacy
+Drug E,Company Z,Tablet,100 mg/ml,30,1087,$15485,06-03-2024,Asia,Susan Osborne,Supermarkets
+Drug B,Company W,Capsule,50 mg,100 ml,404,$8798,08-10-2023,Asia,Robin Owens,Supermarkets
+Drug A,Company X,Cream,250 mg,60,1641,$4850,01-10-2023,North America,Mr. Erik Bennett,Hospitals
+Drug D,Company X,Capsule,500 mg,50 g,1013,$38304,18-09-2023,Europe,Sarah Whitney,Pharmacy
+Drug E,Company Z,Injection,10 mg,10 ml,434,$32258,23-07-2024,North America,Thomas Mitchell,Clinics
+Drug D,Company Y,Injection,50 mg,30,857,$25111,30-08-2023,North America,Thomas Houston,Hospitals
+Drug E,Company V,Cream,250 mg,30,1215,$3802,22-05-2024,South America,Kathleen Jenkins DVM,Supermarkets
+Drug E,Company Y,Injection,250 mg,60,1206,$30473,09-10-2023,Asia,Sara Gillespie,Hospitals
+Drug A,Company V,Cream,100 mg/ml,50 g,1028,$26345,02-01-2024,Europe,Jennifer Jones,Clinics
+Drug B,Company X,Syrup,100 mg/ml,100 ml,1821,$49772,05-08-2023,Europe,James Gonzalez,Clinics
+Drug D,Company Z,Capsule,100 mg/ml,100 ml,187,$33824,19-05-2024,North America,Katherine George,Supermarkets
+Drug A,Company Z,Capsule,250 mg,10 ml,1978,$10298,27-04-2024,South America,Melissa Spence,Online Pharmacy
+Drug D,Company W,Tablet,50 mg,50 g,310,$8780,21-12-2023,South America,Renee Thompson,Supermarkets
+Drug C,Company V,Capsule,500 mg,30,1232,$14892,26-12-2023,Africa,David Hall,Clinics
+Drug E,Company W,Tablet,100 mg/ml,100 ml,1147,$31546,03-12-2023,South America,Patricia Herrera,Supermarkets
+Drug D,Company V,Capsule,10 mg,60,157,$25507,08-09-2023,Asia,Alan Sloan,Supermarkets
+Drug A,Company X,Capsule,100 mg/ml,30,110,$48715,05-05-2024,South America,Tami Robles,Clinics
+Drug C,Company V,Injection,50 mg,100 ml,1496,$30359,04-01-2024,Europe,Edgar Hughes,Online Pharmacy
+Drug D,Company V,Syrup,50 mg,50 g,1677,$14519,09-05-2024,Africa,Melissa Gonzalez,Clinics
+Drug C,Company Y,Syrup,10 mg,30,103,$39963,26-01-2024,North America,Joseph Gregory,Supermarkets
+Drug D,Company W,Cream,250 mg,30,621,$14108,07-03-2024,Africa,Daniel Bray,Pharmacy
+Drug B,Company V,Tablet,500 mg,30,467,$42438,14-04-2024,North America,Angela Gibson,Hospitals
+Drug A,Company V,Syrup,50 mg,60,528,$12478,19-07-2024,Asia,Luke Moore,Pharmacy
+Drug B,Company Y,Syrup,100 mg/ml,30,651,$43294,15-09-2023,Africa,Darren Allen,Pharmacy
+Drug C,Company Y,Capsule,250 mg,100 ml,213,$41727,23-11-2023,Asia,Sarah Gallagher,Online Pharmacy
+Drug A,Company Y,Cream,250 mg,50 g,1808,$18900,14-03-2024,Asia,Scott Chandler,Hospitals
+Drug B,Company Z,Tablet,100 mg/ml,30,979,$33935,14-12-2023,Europe,Kathy Ward,Online Pharmacy
+Drug E,Company W,Injection,100 mg/ml,10 ml,903,$29491,22-09-2023,Africa,Anthony Gutierrez,Online Pharmacy
+Drug D,Company Z,Tablet,500 mg,10 ml,1873,$47958,09-11-2023,South America,Sharon Weiss,Hospitals
+Drug D,Company X,Syrup,100 mg/ml,30,1575,$39809,25-12-2023,Asia,Monica Brown,Clinics
+Drug A,Company V,Tablet,50 mg,60,1178,$26564,01-01-2024,Asia,Stephanie Savage,Online Pharmacy
+Drug C,Company Y,Syrup,10 mg,30,136,$28942,31-10-2023,Europe,Miguel Harrell,Supermarkets
+Drug C,Company W,Tablet,250 mg,50 g,177,$38415,20-01-2024,Europe,Carol Sullivan,Supermarkets
+Drug C,Company V,Capsule,500 mg,10 ml,267,$37982,25-02-2024,Africa,Amanda Adams,Online Pharmacy
+Drug A,Company Y,Syrup,10 mg,10 ml,539,$28332,23-06-2024,South America,Heather Shah,Hospitals
+Drug B,Company Y,Cream,100 mg/ml,100 ml,1637,$28078,20-12-2023,South America,Michael Wright,Pharmacy
+Drug E,Company V,Injection,100 mg/ml,50 g,895,$1117,16-04-2024,Africa,Rachel Chavez,Hospitals
+Drug A,Company Z,Syrup,100 mg/ml,50 g,545,$7812,15-03-2024,Africa,Alexander Moore,Clinics
+Drug D,Company Y,Syrup,10 mg,60,809,$34972,24-08-2023,Asia,Michael Scott,Hospitals
+Drug E,Company X,Capsule,50 mg,50 g,251,$33441,07-08-2023,Europe,Miranda Price,Pharmacy
+Drug D,Company X,Cream,100 mg/ml,50 g,954,$6130,20-08-2023,Africa,Harold Sullivan,Pharmacy
+Drug B,Company V,Syrup,500 mg,50 g,1105,$9186,17-10-2023,North America,Renee Barton,Hospitals
+Drug A,Company Z,Capsule,50 mg,50 g,280,$41256,03-04-2024,Asia,Kevin Patterson,Pharmacy
+Drug C,Company Z,Syrup,250 mg,30,357,$2350,02-06-2024,South America,Philip Bennett,Online Pharmacy
+Drug B,Company V,Cream,50 mg,60,1476,$21861,19-09-2023,Asia,David Walker,Pharmacy
+Drug E,Company V,Cream,10 mg,100 ml,1448,$37724,08-12-2023,Europe,Sara Hill,Clinics
+Drug D,Company Y,Syrup,100 mg/ml,50 g,1191,$27570,21-11-2023,Europe,Ethan Lewis,Hospitals
+Drug B,Company X,Cream,250 mg,50 g,451,$18899,06-04-2024,North America,Cassandra Marshall,Pharmacy
+Drug B,Company W,Capsule,50 mg,60,1978,$23993,04-06-2024,Europe,Michael Miller,Pharmacy
+Drug D,Company V,Injection,10 mg,100 ml,403,$4075,16-03-2024,South America,Brenda Rice,Hospitals
+Drug D,Company X,Cream,10 mg,50 g,309,$38835,08-03-2024,North America,Megan Ingram,Hospitals
+Drug C,Company W,Injection,10 mg,10 ml,1448,$13865,08-12-2023,South America,Kevin Campbell,Supermarkets
+Drug D,Company W,Cream,100 mg/ml,50 g,704,$12836,17-01-2024,Africa,Kelly Green,Clinics
+Drug B,Company Y,Syrup,10 mg,30,165,$32484,11-07-2024,Africa,Terri Hernandez,Pharmacy
+Drug B,Company W,Capsule,250 mg,10 ml,1824,$12594,11-12-2023,South America,Morgan Kelly,Hospitals
+Drug A,Company Y,Tablet,50 mg,10 ml,1553,$35920,16-08-2023,Europe,Brenda Stewart,Pharmacy
+Drug E,Company W,Tablet,250 mg,30,1114,$45080,14-10-2023,Africa,Patrick Hunt,Hospitals
+Drug C,Company Y,Cream,100 mg/ml,60,1746,$7097,07-11-2023,Asia,Natalie Parks,Supermarkets
+Drug D,Company V,Capsule,10 mg,30,1468,$32272,21-04-2024,South America,Shirley Hawkins,Supermarkets
+Drug B,Company V,Injection,500 mg,50 g,230,$41305,09-04-2024,Europe,John Serrano,Clinics
+Drug E,Company X,Capsule,500 mg,50 g,776,$6165,14-04-2024,Asia,Brian Young,Hospitals
+Drug E,Company W,Tablet,500 mg,50 g,1071,$3760,09-09-2023,Europe,Elizabeth Collins,Hospitals
+Drug B,Company Z,Capsule,500 mg,50 g,1137,$1699,23-11-2023,Europe,Sabrina Campbell,Supermarkets
+Drug A,Company Y,Capsule,10 mg,60,787,$47912,09-06-2024,South America,Katrina Horn,Online Pharmacy
+Drug D,Company Y,Injection,250 mg,30,1479,$33505,30-06-2024,South America,Jennifer Oconnell,Pharmacy
+Drug C,Company V,Capsule,500 mg,100 ml,405,$23360,03-11-2023,South America,Jenny Cook,Online Pharmacy
+Drug C,Company W,Cream,50 mg,10 ml,470,$45836,02-11-2023,South America,Hannah Wright,Online Pharmacy
+Drug D,Company W,Capsule,10 mg,50 g,1864,$26663,21-04-2024,South America,Michael Perkins,Pharmacy
+Drug B,Company X,Tablet,500 mg,50 g,1610,$22700,16-10-2023,Europe,Scott Fowler,Clinics
+Drug A,Company X,Cream,10 mg,10 ml,1247,$23054,13-11-2023,Africa,Julie Fisher,Hospitals
+Drug E,Company W,Injection,50 mg,60,1515,$37393,30-12-2023,North America,Troy Kennedy,Hospitals
+Drug E,Company X,Syrup,500 mg,30,1064,$11558,12-07-2024,Europe,Jill Howard,Online Pharmacy
+Drug A,Company Z,Syrup,100 mg/ml,50 g,336,$7855,28-08-2023,Asia,Miranda Jones,Supermarkets
+Drug C,Company V,Tablet,500 mg,50 g,1334,$30566,19-12-2023,North America,Jasmine Frank,Pharmacy
+Drug D,Company X,Cream,500 mg,100 ml,472,$23247,20-12-2023,Asia,Ashlee Macdonald,Hospitals
+Drug D,Company V,Capsule,50 mg,100 ml,169,$18665,31-01-2024,Europe,Lori Maldonado,Pharmacy
+Drug C,Company Y,Syrup,100 mg/ml,100 ml,150,$8735,18-10-2023,North America,Kristy Taylor,Supermarkets
+Drug D,Company V,Injection,100 mg/ml,10 ml,1503,$19148,10-10-2023,North America,Hunter Nguyen,Clinics
+Drug A,Company X,Syrup,100 mg/ml,50 g,355,$33093,18-05-2024,North America,Zachary Dyer,Hospitals
+Drug A,Company W,Injection,100 mg/ml,50 g,1215,$12727,30-11-2023,North America,James Lee,Pharmacy
+Drug D,Company V,Tablet,50 mg,50 g,857,$26479,25-08-2023,Asia,Phillip Adkins,Pharmacy
+Drug E,Company W,Cream,250 mg,100 ml,914,$28345,21-02-2024,Africa,Roger Larsen,Hospitals
+Drug E,Company V,Tablet,100 mg/ml,100 ml,1513,$16791,28-07-2024,South America,Rebecca Vargas,Supermarkets
+Drug D,Company V,Injection,500 mg,100 ml,809,$1788,19-09-2023,South America,Karen Kent,Online Pharmacy
+Drug A,Company X,Tablet,10 mg,10 ml,1696,$42076,27-03-2024,Africa,Heather Dawson,Pharmacy
+Drug D,Company V,Cream,500 mg,50 g,1943,$42637,13-04-2024,North America,Carrie Reese,Online Pharmacy
+Drug B,Company W,Cream,100 mg/ml,10 ml,794,$5918,14-04-2024,Africa,Kevin Parker,Hospitals
+Drug A,Company Y,Cream,500 mg,60,601,$7096,28-06-2024,Europe,Christina Miller,Pharmacy
+Drug D,Company W,Cream,100 mg/ml,30,1954,$14676,20-12-2023,Africa,John Cruz,Online Pharmacy
+Drug D,Company Y,Tablet,10 mg,30,301,$28337,10-10-2023,Africa,Tommy Wise,Pharmacy
+Drug D,Company Z,Cream,250 mg,50 g,648,$34565,10-06-2024,South America,James Gutierrez,Online Pharmacy
+Drug E,Company W,Injection,10 mg,50 g,508,$9190,26-10-2023,Africa,Jill Mitchell,Hospitals
+Drug E,Company Y,Injection,100 mg/ml,30,1259,$21505,05-10-2023,Europe,Katherine Glover,Online Pharmacy
+Drug C,Company Y,Injection,100 mg/ml,60,1922,$5404,27-12-2023,Africa,Christopher Adams,Hospitals
+Drug C,Company W,Tablet,100 mg/ml,100 ml,1769,$49043,07-10-2023,South America,Katrina Reid,Online Pharmacy
+Drug B,Company Y,Capsule,50 mg,100 ml,348,$40962,07-08-2023,South America,Luis Wood,Hospitals
+Drug C,Company Y,Cream,50 mg,50 g,317,$17536,29-02-2024,Africa,Robert Greer,Supermarkets
+Drug D,Company X,Tablet,250 mg,100 ml,832,$14813,01-11-2023,North America,Michele Nguyen,Supermarkets
+Drug B,Company W,Injection,50 mg,50 g,1217,$44230,25-08-2023,Asia,Tiffany Lewis,Clinics
+Drug B,Company V,Tablet,10 mg,30,987,$46351,13-04-2024,Asia,Charles Ellis,Pharmacy
+Drug C,Company V,Cream,100 mg/ml,30,1544,$28088,14-04-2024,South America,Alexander Underwood,Hospitals
+Drug C,Company Y,Injection,10 mg,50 g,1500,$33627,05-11-2023,Africa,Arthur Henry,Hospitals
+Drug B,Company V,Syrup,250 mg,100 ml,1406,$38824,29-12-2023,Europe,Dawn Le,Pharmacy
+Drug B,Company Z,Injection,500 mg,50 g,1176,$3089,02-08-2023,Europe,Nicholas Caldwell,Clinics
+Drug B,Company W,Syrup,500 mg,10 ml,1806,$24517,16-04-2024,South America,Kelly Parker,Online Pharmacy
+Drug A,Company V,Syrup,250 mg,30,1187,$25578,21-10-2023,North America,Noah Davis,Clinics
+Drug A,Company W,Cream,250 mg,10 ml,606,$19299,07-03-2024,North America,Joshua Villa,Online Pharmacy
+Drug D,Company Y,Injection,50 mg,30,1824,$35974,03-08-2023,Europe,Bonnie Mason,Hospitals
+Drug B,Company Y,Tablet,100 mg/ml,30,1082,$1598,28-09-2023,North America,Lorraine Gibson,Supermarkets
+Drug B,Company W,Injection,500 mg,50 g,1738,$46460,29-03-2024,South America,Kimberly Lopez,Online Pharmacy
+Drug A,Company Y,Capsule,250 mg,100 ml,566,$7773,23-09-2023,Europe,Lisa Burgess,Pharmacy
+Drug D,Company Y,Tablet,50 mg,100 ml,1542,$18211,19-10-2023,Europe,Teresa Waters,Pharmacy
+Drug B,Company Z,Capsule,250 mg,100 ml,1818,$24007,15-05-2024,Asia,Gary Foster,Supermarkets
+Drug C,Company X,Cream,500 mg,10 ml,380,$19627,26-04-2024,Africa,Cassandra Allen,Clinics
+Drug C,Company Y,Cream,500 mg,30,1258,$32636,06-10-2023,South America,Bryan Erickson,Clinics
+Drug B,Company X,Injection,500 mg,10 ml,271,$42665,23-07-2024,Europe,Claire Henry,Pharmacy
+Drug C,Company Z,Cream,100 mg/ml,60,1450,$41272,25-09-2023,Africa,Courtney Shelton,Online Pharmacy
+Drug B,Company W,Capsule,500 mg,10 ml,880,$41888,01-02-2024,North America,Danny Acevedo,Online Pharmacy
+Drug A,Company Z,Syrup,10 mg,100 ml,946,$11455,19-11-2023,Europe,Brian Henry,Pharmacy
+Drug E,Company W,Injection,100 mg/ml,50 g,1435,$5947,16-06-2024,North America,Patricia Robertson,Hospitals
+Drug C,Company Y,Capsule,100 mg/ml,50 g,662,$42968,04-05-2024,Asia,Jason Hernandez,Hospitals
+Drug A,Company Z,Syrup,10 mg,10 ml,974,$1233,12-12-2023,Asia,Sabrina Villa,Online Pharmacy
+Drug B,Company Y,Capsule,500 mg,100 ml,375,$48490,10-09-2023,Asia,Robert Scott,Online Pharmacy
+Drug D,Company Z,Cream,100 mg/ml,60,1174,$45203,16-09-2023,Asia,Jeffrey Moore,Hospitals
+Drug B,Company W,Cream,100 mg/ml,50 g,826,$38948,13-05-2024,Asia,Gregory Krause,Pharmacy
+Drug D,Company W,Cream,500 mg,100 ml,1991,$22125,29-12-2023,Africa,Daniel Adkins,Pharmacy
+Drug A,Company V,Tablet,10 mg,30,1847,$3341,28-01-2024,Europe,Donna Gardner,Clinics
+Drug B,Company W,Tablet,10 mg,50 g,1902,$30721,07-10-2023,Africa,Eric Boyd,Online Pharmacy
+Drug C,Company V,Capsule,250 mg,30,1565,$44406,01-05-2024,North America,Sabrina Barnett MD,Pharmacy
+Drug A,Company Z,Syrup,10 mg,60,202,$29359,26-04-2024,Europe,Richard Matthews,Clinics
+Drug E,Company W,Cream,500 mg,100 ml,1154,$43230,28-09-2023,Asia,Christine Garcia,Online Pharmacy
+Drug A,Company Y,Syrup,100 mg/ml,50 g,1979,$44423,07-02-2024,Asia,Robert Becker,Supermarkets
+Drug E,Company Z,Syrup,250 mg,60,1572,$45926,11-04-2024,Africa,Kimberly Hill,Clinics
+Drug D,Company V,Injection,100 mg/ml,60,1732,$15706,29-02-2024,Africa,Samuel Mullen,Supermarkets
+Drug D,Company X,Capsule,50 mg,100 ml,994,$28766,05-06-2024,Africa,Michael Romero,Supermarkets
+Drug E,Company Z,Tablet,250 mg,10 ml,524,$29230,20-12-2023,North America,Travis Mason,Supermarkets
+Drug B,Company Y,Injection,50 mg,100 ml,255,$10654,23-01-2024,North America,Aaron Miles,Clinics
+Drug E,Company W,Cream,250 mg,50 g,347,$13939,14-04-2024,North America,Bryan Porter,Hospitals
+Drug E,Company W,Injection,100 mg/ml,10 ml,884,$29077,23-03-2024,North America,Cynthia Ross,Pharmacy
+Drug B,Company Z,Capsule,50 mg,10 ml,1415,$35744,06-06-2024,Europe,Cynthia Aguirre,Hospitals
+Drug B,Company X,Tablet,10 mg,100 ml,600,$22592,13-05-2024,North America,Daniel Phillips,Hospitals
+Drug E,Company Y,Tablet,500 mg,30,1568,$22730,23-10-2023,South America,Patrick Martinez,Clinics
+Drug C,Company X,Syrup,100 mg/ml,30,1383,$7696,27-06-2024,North America,Suzanne Hernandez,Hospitals
+Drug E,Company X,Injection,100 mg/ml,100 ml,1066,$30159,16-10-2023,Europe,Matthew Glover,Hospitals
+Drug A,Company Y,Syrup,250 mg,10 ml,1759,$31641,07-07-2024,Africa,Timothy Ruiz,Pharmacy
+Drug A,Company V,Capsule,50 mg,30,1040,$45896,09-11-2023,Africa,Savannah Howard,Online Pharmacy
+Drug C,Company X,Injection,500 mg,60,1796,$15290,18-12-2023,Africa,Gregory Henry,Pharmacy
+Drug D,Company W,Syrup,250 mg,100 ml,1545,$2653,26-07-2024,South America,Amanda Underwood,Hospitals
+Drug A,Company X,Tablet,50 mg,60,1615,$48316,19-05-2024,North America,Yvette Miller,Supermarkets
+Drug C,Company V,Syrup,100 mg/ml,100 ml,1793,$3737,29-11-2023,Asia,Robert Valencia,Hospitals
+Drug E,Company V,Cream,250 mg,50 g,1283,$30409,05-04-2024,Africa,Robert Lucas,Hospitals
+Drug A,Company Y,Cream,50 mg,10 ml,635,$8357,26-09-2023,North America,Joshua Ferguson,Online Pharmacy
+Drug B,Company W,Injection,50 mg,60,1700,$25492,03-05-2024,Europe,Amy Davis,Online Pharmacy
+Drug B,Company Y,Capsule,50 mg,60,1428,$22964,23-12-2023,Asia,Miguel Shah,Clinics
+Drug B,Company Z,Syrup,50 mg,60,786,$11656,07-01-2024,Africa,Matthew Thomas,Pharmacy
+Drug A,Company Z,Syrup,500 mg,60,973,$3690,01-05-2024,Europe,Jeffrey Woods,Pharmacy
+Drug C,Company Y,Cream,10 mg,50 g,1841,$5308,04-12-2023,Europe,Lori Jones MD,Pharmacy
+Drug D,Company X,Injection,100 mg/ml,100 ml,852,$21947,17-03-2024,South America,Nicole Russell,Supermarkets
+Drug D,Company X,Capsule,10 mg,50 g,1005,$20706,13-12-2023,Europe,Raymond Perez,Clinics
+Drug E,Company Y,Syrup,500 mg,100 ml,1746,$9959,26-03-2024,Europe,Timothy Porter,Clinics
+Drug D,Company Y,Capsule,250 mg,30,1257,$23476,31-12-2023,Asia,Jose Dunn,Supermarkets
+Drug A,Company X,Tablet,10 mg,50 g,1082,$35390,30-03-2024,Asia,Katelyn Fields,Pharmacy
+Drug C,Company Y,Injection,10 mg,50 g,428,$3153,07-02-2024,South America,Joshua Black,Online Pharmacy
+Drug C,Company Y,Syrup,100 mg/ml,60,793,$30051,25-05-2024,Asia,Travis Carrillo,Hospitals
+Drug A,Company V,Cream,100 mg/ml,60,140,$31617,22-10-2023,Asia,Lisa Cobb,Supermarkets
+Drug B,Company Y,Injection,500 mg,30,862,$42692,02-05-2024,Europe,Lisa Berry,Pharmacy
+Drug B,Company V,Cream,250 mg,30,1888,$35394,18-08-2023,Europe,Ernest Mcgrath,Online Pharmacy
+Drug E,Company X,Cream,100 mg/ml,50 g,1623,$26804,16-06-2024,Africa,Jeffrey Simpson,Clinics
+Drug D,Company Z,Cream,500 mg,60,1641,$7106,10-08-2023,Europe,Richard Vasquez,Hospitals
+Drug B,Company W,Cream,500 mg,60,622,$30194,09-03-2024,North America,Travis Floyd,Hospitals
+Drug E,Company V,Syrup,250 mg,50 g,1529,$22974,26-04-2024,South America,Brandon Williams,Hospitals
+Drug B,Company W,Tablet,10 mg,50 g,1868,$14793,22-06-2024,South America,Mary Garcia,Hospitals
+Drug A,Company X,Tablet,250 mg,30,421,$11743,24-04-2024,Asia,Susan Donaldson,Clinics
+Drug B,Company Y,Injection,250 mg,50 g,1140,$11932,09-08-2023,Africa,Richard Johnson,Hospitals
+Drug B,Company V,Syrup,10 mg,100 ml,1689,$48095,31-01-2024,South America,Jermaine Lowe,Hospitals
+Drug B,Company Z,Syrup,10 mg,30,899,$30188,01-01-2024,North America,Amanda Anderson,Hospitals
+Drug B,Company Z,Cream,250 mg,10 ml,1631,$1499,06-06-2024,South America,Tammy Nguyen,Pharmacy
+Drug B,Company Z,Cream,250 mg,50 g,319,$13155,13-05-2024,Asia,James Sanders,Online Pharmacy
+Drug C,Company W,Syrup,500 mg,10 ml,152,$12327,31-10-2023,North America,Timothy Diaz,Online Pharmacy
+Drug C,Company W,Cream,250 mg,50 g,1283,$2668,13-05-2024,South America,Trevor Keith,Clinics
+Drug A,Company W,Injection,100 mg/ml,100 ml,1508,$41269,25-12-2023,North America,Charles Rice,Hospitals
+Drug E,Company Y,Capsule,100 mg/ml,30,774,$26648,30-05-2024,South America,Melissa Ramos,Hospitals
+Drug A,Company Z,Syrup,50 mg,30,255,$47763,30-03-2024,Africa,Christopher Stephenson,Supermarkets
+Drug D,Company Z,Tablet,10 mg,10 ml,1460,$22865,10-10-2023,South America,Robert Hale,Clinics
+Drug B,Company W,Cream,100 mg/ml,30,879,$6810,13-04-2024,Africa,Brian Raymond,Hospitals
+Drug B,Company V,Injection,500 mg,50 g,634,$15232,20-07-2024,Asia,Monica Jones,Pharmacy
+Drug C,Company X,Cream,500 mg,100 ml,1589,$28963,15-02-2024,Africa,Nichole Orozco,Pharmacy
+Drug A,Company Z,Syrup,100 mg/ml,100 ml,288,$10918,21-11-2023,Africa,Paige Myers,Clinics
+Drug C,Company V,Capsule,500 mg,50 g,161,$15335,15-07-2024,South America,Steve Ford,Online Pharmacy
+Drug E,Company Y,Cream,500 mg,50 g,855,$29393,04-09-2023,South America,Patricia Wilson,Clinics
+Drug E,Company Y,Syrup,10 mg,10 ml,488,$48696,13-12-2023,Europe,Jennifer Clark,Clinics
+Drug C,Company W,Cream,50 mg,100 ml,1119,$17664,21-02-2024,Africa,Andrew Lang,Hospitals
+Drug D,Company V,Tablet,250 mg,30,105,$10114,28-09-2023,Asia,Catherine Ochoa,Clinics
+Drug D,Company X,Injection,100 mg/ml,100 ml,1425,$49691,22-11-2023,Africa,Kenneth Jones,Pharmacy
+Drug B,Company Y,Syrup,100 mg/ml,10 ml,908,$12202,11-03-2024,Europe,Nicole Warner,Hospitals
+Drug C,Company Y,Cream,250 mg,30,1479,$39296,29-05-2024,Africa,Richard Benton,Pharmacy
+Drug D,Company Y,Injection,10 mg,30,1271,$24977,03-11-2023,Africa,Eric Williams,Clinics
+Drug B,Company Y,Capsule,50 mg,60,255,$3422,26-07-2024,Europe,Jacqueline Jones,Hospitals
+Drug B,Company Z,Injection,50 mg,100 ml,1258,$40096,24-01-2024,North America,Kelly Wolf,Clinics
+Drug B,Company Z,Capsule,500 mg,100 ml,1633,$49748,02-08-2023,South America,Colin Watson,Supermarkets
+Drug A,Company Z,Cream,10 mg,100 ml,115,$42746,27-06-2024,South America,Melissa Fisher,Clinics
+Drug E,Company Z,Injection,500 mg,30,1666,$31902,05-01-2024,South America,Andrea Reese,Pharmacy
+Drug E,Company Y,Injection,10 mg,100 ml,1141,$14925,28-04-2024,Africa,Cory Mason,Hospitals
+Drug A,Company X,Capsule,500 mg,50 g,684,$49285,26-02-2024,Europe,Nathaniel Williams,Online Pharmacy
+Drug C,Company W,Tablet,100 mg/ml,100 ml,125,$27122,25-08-2023,Asia,Kara Martin,Hospitals
+Drug B,Company Y,Syrup,10 mg,100 ml,1257,$9065,13-02-2024,South America,Mr. Todd Miller,Online Pharmacy
+Drug A,Company W,Syrup,250 mg,10 ml,512,$38483,29-11-2023,Africa,Paul Brown,Hospitals
+Drug B,Company Z,Tablet,500 mg,60,1978,$35271,25-12-2023,North America,Megan Graves,Supermarkets
+Drug B,Company Z,Syrup,50 mg,10 ml,452,$27833,01-11-2023,Europe,Tammy Ford,Pharmacy
+Drug C,Company Y,Cream,50 mg,100 ml,1464,$13450,04-10-2023,North America,Shannon Rodriguez,Hospitals
+Drug E,Company V,Cream,100 mg/ml,60,1259,$34258,21-10-2023,North America,Robert Gomez,Online Pharmacy
+Drug B,Company Z,Injection,50 mg,10 ml,997,$6288,17-07-2024,North America,Joshua Owens,Supermarkets
+Drug A,Company V,Cream,50 mg,60,324,$16995,26-10-2023,Europe,Rebecca Armstrong,Pharmacy
+Drug A,Company X,Syrup,10 mg,100 ml,153,$48959,31-05-2024,Europe,Anthony Zimmerman,Clinics
+Drug E,Company Y,Cream,10 mg,50 g,1927,$36009,09-08-2023,Africa,Travis Norton,Hospitals
+Drug B,Company X,Cream,100 mg/ml,60,463,$7692,30-07-2023,Africa,Andrew Hernandez,Clinics
+Drug B,Company V,Capsule,10 mg,30,1767,$37875,28-01-2024,Europe,Lindsay Obrien,Clinics
+Drug D,Company W,Injection,250 mg,100 ml,1906,$37464,04-08-2023,Asia,Monica Ruiz MD,Pharmacy
+Drug C,Company X,Tablet,100 mg/ml,30,1155,$27188,19-09-2023,Africa,Courtney Day,Online Pharmacy
+Drug B,Company X,Capsule,50 mg,100 ml,752,$2969,01-05-2024,North America,Paul Gray,Online Pharmacy
+Drug A,Company W,Injection,10 mg,30,1723,$43091,17-08-2023,Africa,Wayne Roy,Hospitals
+Drug C,Company Z,Capsule,100 mg/ml,60,1337,$22675,05-08-2023,Africa,Dr. Alexis Cochran,Clinics
+Drug D,Company Y,Capsule,50 mg,60,1430,$41328,06-08-2023,South America,Crystal Goodman,Supermarkets
+Drug A,Company Y,Capsule,50 mg,100 ml,1184,$27895,29-04-2024,South America,Kimberly Sutton,Clinics
+Drug E,Company Y,Syrup,10 mg,30,506,$17762,20-06-2024,Asia,Rhonda Williams,Pharmacy
+Drug D,Company Z,Capsule,500 mg,10 ml,1085,$1367,05-03-2024,Africa,Danielle Chen,Pharmacy
+Drug C,Company V,Injection,50 mg,10 ml,1151,$23237,28-03-2024,Europe,Patrick Miller,Hospitals
+Drug C,Company Z,Capsule,250 mg,100 ml,157,$17373,06-04-2024,North America,Joyce Adams,Clinics
+Drug D,Company W,Injection,500 mg,10 ml,1665,$49986,29-08-2023,North America,Ian Rangel,Online Pharmacy
+Drug D,Company Y,Cream,50 mg,30,206,$35133,15-03-2024,Africa,Justin Montgomery,Hospitals
+Drug C,Company V,Tablet,100 mg/ml,30,1348,$37823,24-06-2024,Africa,Jimmy Cox,Supermarkets
+Drug D,Company V,Tablet,500 mg,60,1397,$45903,26-10-2023,Asia,Jade Collins,Clinics
+Drug B,Company V,Tablet,50 mg,100 ml,1514,$24056,16-04-2024,Europe,Brittany Bradford,Clinics
+Drug B,Company V,Tablet,50 mg,30,160,$14104,30-10-2023,North America,David Oconnor,Clinics
+Drug C,Company V,Injection,500 mg,60,1386,$21572,04-02-2024,Asia,Deanna Becker,Hospitals
+Drug C,Company Y,Cream,500 mg,60,348,$3487,05-03-2024,Africa,David Ryan,Pharmacy
+Drug D,Company W,Capsule,10 mg,50 g,1100,$3858,17-04-2024,Asia,Curtis Khan,Hospitals
+Drug C,Company Y,Capsule,100 mg/ml,60,514,$39240,11-11-2023,Africa,Dr. Mary Alexander,Supermarkets
+Drug B,Company W,Syrup,100 mg/ml,100 ml,1752,$38068,29-12-2023,North America,Monique Cruz,Online Pharmacy
+Drug A,Company W,Cream,100 mg/ml,10 ml,358,$13438,13-03-2024,Europe,Victoria Powell,Supermarkets
+Drug A,Company Y,Capsule,500 mg,10 ml,506,$28350,10-04-2024,Asia,Stephen Becker,Supermarkets
+Drug E,Company Y,Tablet,100 mg/ml,100 ml,1938,$28072,12-07-2024,Asia,Kirsten Dillon,Online Pharmacy
+Drug B,Company V,Capsule,500 mg,10 ml,794,$29529,26-11-2023,North America,Victoria Miller,Clinics
+Drug A,Company X,Injection,500 mg,10 ml,483,$26712,22-12-2023,North America,Jordan Guzman,Pharmacy
+Drug D,Company V,Cream,100 mg/ml,50 g,1884,$23635,11-05-2024,Asia,Julia Rivera MD,Supermarkets
+Drug D,Company Y,Cream,50 mg,10 ml,735,$40658,12-10-2023,Africa,Joseph Harris,Online Pharmacy
+Drug B,Company V,Syrup,100 mg/ml,50 g,274,$30681,19-05-2024,Asia,Michael Saunders,Supermarkets
+Drug C,Company V,Tablet,500 mg,50 g,1805,$40381,10-04-2024,North America,Kimberly Rice,Hospitals
+Drug B,Company Y,Capsule,10 mg,50 g,873,$28594,10-02-2024,Europe,Daniel Alexander,Clinics
+Drug A,Company W,Syrup,500 mg,100 ml,132,$44778,18-04-2024,Asia,Alicia Castillo,Hospitals
+Drug A,Company W,Tablet,250 mg,50 g,1420,$14853,23-01-2024,Europe,Anna Odonnell,Supermarkets
+Drug A,Company W,Injection,100 mg/ml,50 g,1683,$29645,03-10-2023,Europe,Gabriel Lowe,Online Pharmacy
+Drug E,Company Y,Injection,250 mg,60,1143,$43589,25-04-2024,Asia,Brent Kemp,Supermarkets
+Drug B,Company Z,Cream,500 mg,30,223,$2979,04-05-2024,Europe,Susan Owens,Clinics
+Drug C,Company X,Syrup,10 mg,60,1324,$4688,06-10-2023,Asia,Anthony Jenkins,Clinics
+Drug E,Company V,Injection,250 mg,100 ml,194,$24534,03-04-2024,Europe,Robin Coleman,Online Pharmacy
+Drug C,Company Y,Tablet,10 mg,60,661,$23684,20-01-2024,Africa,Thomas Collins,Online Pharmacy
+Drug B,Company Y,Tablet,10 mg,50 g,751,$19968,16-03-2024,South America,Brittany Williams,Pharmacy
+Drug B,Company V,Cream,250 mg,100 ml,1257,$23292,26-07-2024,North America,Luis George,Pharmacy
+Drug D,Company V,Injection,500 mg,60,302,$13102,10-01-2024,Africa,James Edwards,Online Pharmacy
+Drug D,Company Y,Capsule,500 mg,100 ml,952,$24617,05-06-2024,North America,Mary Jones,Pharmacy
+Drug A,Company X,Capsule,10 mg,100 ml,507,$10837,09-12-2023,Asia,Jennifer Martinez,Online Pharmacy
+Drug B,Company V,Cream,10 mg,50 g,1325,$29008,18-09-2023,South America,James White,Clinics
+Drug B,Company V,Tablet,10 mg,50 g,970,$30738,27-05-2024,Africa,Cindy White,Pharmacy
+Drug E,Company W,Capsule,500 mg,50 g,1034,$9255,17-03-2024,Asia,Paul Schmidt,Supermarkets
+Drug E,Company Z,Capsule,100 mg/ml,100 ml,1127,$3828,24-06-2024,South America,Sherry Higgins,Hospitals
+Drug E,Company Z,Syrup,250 mg,30,347,$46219,09-05-2024,Africa,Shannon French,Pharmacy
+Drug C,Company Y,Syrup,10 mg,50 g,1032,$37678,20-01-2024,North America,Jennifer Gonzales,Clinics
+Drug B,Company Z,Tablet,50 mg,30,1105,$35389,23-11-2023,Asia,Thomas Davis,Pharmacy
+Drug B,Company V,Syrup,250 mg,100 ml,107,$11533,26-01-2024,South America,Joseph Moore,Online Pharmacy
+Drug E,Company Z,Cream,100 mg/ml,60,585,$37206,18-02-2024,North America,Jerry Hanson,Online Pharmacy
+Drug E,Company X,Tablet,500 mg,30,1915,$6442,16-05-2024,South America,Jennifer Tucker,Online Pharmacy
+Drug B,Company W,Cream,250 mg,100 ml,1228,$47317,12-05-2024,Europe,Amanda Garcia,Pharmacy
+Drug D,Company X,Injection,10 mg,60,728,$17927,08-07-2024,North America,Jessica Kelly,Online Pharmacy
+Drug C,Company X,Injection,50 mg,100 ml,938,$49452,20-12-2023,Europe,James Fuller,Hospitals
+Drug B,Company W,Injection,100 mg/ml,50 g,1140,$37493,01-09-2023,North America,Maria Proctor,Hospitals
+Drug D,Company V,Cream,250 mg,10 ml,493,$37610,21-09-2023,Europe,John Fowler,Hospitals
+Drug D,Company Y,Syrup,250 mg,10 ml,1358,$3735,09-07-2024,Europe,Jason Nelson,Clinics
+Drug A,Company Z,Cream,500 mg,50 g,269,$43198,10-10-2023,Asia,Marvin Wu,Pharmacy
+Drug B,Company X,Cream,250 mg,30,201,$24265,17-10-2023,Asia,Emily Singleton,Online Pharmacy
+Drug E,Company Y,Cream,50 mg,30,1918,$16223,28-02-2024,Asia,Colin Lee,Hospitals
+Drug D,Company W,Injection,100 mg/ml,60,1337,$12997,26-06-2024,Europe,Mathew Johnson,Supermarkets
+Drug D,Company X,Syrup,100 mg/ml,100 ml,483,$25162,31-07-2023,Africa,Christopher Ramirez,Supermarkets
+Drug A,Company Y,Injection,500 mg,50 g,105,$31985,17-07-2024,South America,Samuel Ortiz,Supermarkets
+Drug E,Company V,Cream,50 mg,60,1760,$24924,27-11-2023,Europe,Megan Reese,Online Pharmacy
+Drug A,Company X,Cream,10 mg,60,835,$35184,16-07-2024,North America,Rachel White,Supermarkets
+Drug B,Company Y,Injection,50 mg,10 ml,122,$7349,19-01-2024,Europe,Michael Mclaughlin,Pharmacy
+Drug C,Company Y,Syrup,250 mg,30,1415,$41330,05-05-2024,Europe,Paul Gibson,Pharmacy
+Drug E,Company W,Tablet,100 mg/ml,50 g,1993,$5212,04-03-2024,Africa,Timothy Sanchez,Clinics
+Drug E,Company X,Tablet,500 mg,50 g,958,$15537,03-05-2024,North America,Lori Smith,Clinics
+Drug A,Company W,Injection,50 mg,10 ml,1616,$15777,10-08-2023,North America,Julie Carpenter,Clinics
+Drug E,Company W,Syrup,100 mg/ml,50 g,922,$32819,24-01-2024,Europe,Barbara Baldwin,Pharmacy
+Drug B,Company W,Cream,10 mg,30,580,$41566,23-06-2024,Africa,Jason Brooks,Hospitals
+Drug B,Company X,Tablet,250 mg,100 ml,561,$42268,12-05-2024,Asia,Linda Brown,Supermarkets
+Drug C,Company W,Capsule,50 mg,30,1709,$28361,04-05-2024,South America,Ernest Moyer,Pharmacy
+Drug C,Company Y,Tablet,500 mg,50 g,1662,$43524,22-04-2024,Europe,Melissa Rodriguez,Pharmacy
+Drug D,Company X,Syrup,500 mg,30,643,$42567,07-11-2023,South America,Austin Bowen,Hospitals
+Drug A,Company X,Capsule,100 mg/ml,10 ml,1618,$11577,05-07-2024,North America,Nicholas French,Online Pharmacy
+Drug B,Company W,Cream,500 mg,60,1616,$21763,15-07-2024,Europe,Lauren Jones,Clinics
+Drug B,Company X,Injection,50 mg,60,1817,$36872,11-06-2024,North America,Sean Butler,Hospitals
+Drug D,Company Z,Syrup,10 mg,100 ml,280,$29505,29-07-2023,North America,Michael Wiley,Supermarkets
+Drug C,Company W,Cream,100 mg/ml,10 ml,519,$3961,01-10-2023,North America,James Lara,Online Pharmacy
+Drug C,Company W,Capsule,250 mg,10 ml,1355,$9822,05-10-2023,Africa,Jessica Miller,Clinics
+Drug D,Company V,Cream,500 mg,100 ml,1289,$40553,28-07-2024,Europe,Alvin Rios,Hospitals
+Drug D,Company Y,Injection,10 mg,60,1578,$18160,03-12-2023,Asia,James Goodman,Pharmacy
+Drug D,Company Z,Cream,10 mg,100 ml,854,$45168,16-05-2024,North America,Erica Adams,Pharmacy
+Drug C,Company X,Injection,250 mg,30,1875,$19837,11-10-2023,South America,Amy Cruz,Clinics
+Drug C,Company Z,Cream,250 mg,50 g,1105,$16306,03-04-2024,South America,Michael Clark,Pharmacy
+Drug B,Company Z,Cream,50 mg,100 ml,503,$28974,01-04-2024,South America,Joyce Lopez,Pharmacy
+Drug E,Company V,Syrup,50 mg,60,1354,$28539,21-06-2024,North America,Keith Allen,Clinics
+Drug C,Company V,Tablet,10 mg,100 ml,1716,$40609,01-04-2024,Asia,Paige Watkins,Supermarkets
+Drug B,Company V,Tablet,250 mg,50 g,1268,$38392,29-06-2024,North America,Matthew Jones,Pharmacy
+Drug B,Company Z,Tablet,500 mg,60,716,$38994,04-02-2024,South America,Taylor Williams,Pharmacy
+Drug E,Company W,Tablet,250 mg,50 g,1467,$18147,25-06-2024,Asia,Diane Beltran,Online Pharmacy
+Drug B,Company X,Cream,250 mg,30,501,$8312,01-11-2023,Asia,Paul Espinoza,Supermarkets
+Drug B,Company V,Cream,250 mg,30,1127,$29324,02-07-2024,North America,Laurie Price,Hospitals
+Drug E,Company Y,Syrup,10 mg,10 ml,814,$22816,16-12-2023,Asia,John Thompson,Clinics
+Drug D,Company W,Cream,10 mg,10 ml,1056,$4782,07-10-2023,Africa,Kara Dixon,Hospitals
+Drug D,Company X,Injection,10 mg,50 g,130,$3639,27-12-2023,Africa,Jamie Jones,Hospitals
+Drug D,Company W,Tablet,500 mg,50 g,760,$16495,30-03-2024,Asia,Alisha Johnson,Supermarkets
+Drug E,Company X,Tablet,250 mg,10 ml,961,$47213,07-06-2024,Africa,Taylor Villa,Online Pharmacy
+Drug D,Company X,Cream,100 mg/ml,10 ml,1410,$27514,31-10-2023,South America,Wesley Rodriguez,Pharmacy
+Drug C,Company X,Tablet,50 mg,60,1446,$22233,30-11-2023,Europe,Lisa Cisneros,Supermarkets
+Drug B,Company W,Syrup,500 mg,30,1694,$17518,12-01-2024,Africa,Michael Lawson,Hospitals
+Drug C,Company Y,Capsule,10 mg,10 ml,1834,$5964,02-03-2024,South America,Christopher Huang,Pharmacy
+Drug E,Company V,Capsule,250 mg,100 ml,737,$33901,04-07-2024,North America,Hector Silva,Hospitals
+Drug A,Company V,Tablet,500 mg,100 ml,1027,$9819,22-05-2024,Europe,Mindy Garcia,Hospitals
+Drug C,Company W,Tablet,500 mg,50 g,1000,$34947,18-10-2023,South America,Timothy Gray,Online Pharmacy
+Drug B,Company V,Capsule,250 mg,60,1732,$43643,15-06-2024,Africa,Paul Gilbert,Clinics
+Drug E,Company Z,Cream,250 mg,30,1686,$38320,11-01-2024,Europe,Raymond Diaz,Clinics
+Drug C,Company Z,Tablet,50 mg,10 ml,1880,$13397,08-01-2024,South America,Kenneth Mack,Supermarkets
+Drug C,Company V,Cream,10 mg,100 ml,363,$3071,15-03-2024,Asia,Michelle Ellis,Online Pharmacy
+Drug E,Company W,Capsule,10 mg,10 ml,152,$27219,28-02-2024,North America,Steven Lewis,Hospitals
+Drug D,Company X,Capsule,50 mg,50 g,1989,$39898,05-08-2023,Europe,Wendy Baker,Online Pharmacy
+Drug C,Company Z,Cream,100 mg/ml,30,729,$17817,16-03-2024,North America,Elizabeth Weber,Pharmacy
+Drug E,Company X,Injection,100 mg/ml,50 g,828,$3572,08-01-2024,North America,Mark Gilbert,Supermarkets
+Drug E,Company Z,Cream,10 mg,60,984,$43213,31-07-2023,North America,Craig Reyes,Online Pharmacy
+Drug E,Company Z,Syrup,10 mg,10 ml,1911,$40843,19-01-2024,Asia,Linda Miller,Supermarkets
+Drug E,Company W,Cream,10 mg,30,846,$18094,02-05-2024,Asia,Michael Pena,Online Pharmacy
+Drug D,Company X,Injection,10 mg,100 ml,415,$30785,24-05-2024,Africa,Dr. Guy Mcguire,Hospitals
+Drug D,Company V,Cream,10 mg,100 ml,1507,$32408,02-02-2024,Asia,James Glenn,Clinics
+Drug B,Company V,Injection,500 mg,50 g,889,$4285,06-05-2024,South America,Susan Holloway,Clinics
+Drug A,Company V,Tablet,50 mg,30,983,$39307,26-01-2024,South America,Isaac Moore,Online Pharmacy
+Drug E,Company Y,Syrup,100 mg/ml,60,743,$38388,04-07-2024,North America,Alison Santos DDS,Hospitals
+Drug D,Company V,Capsule,250 mg,30,255,$27581,05-06-2024,South America,Michael Scott,Online Pharmacy
+Drug D,Company Y,Syrup,50 mg,30,965,$12117,30-08-2023,Asia,Natasha Murray,Pharmacy
+Drug E,Company X,Capsule,50 mg,10 ml,254,$2928,19-08-2023,North America,David Lee,Pharmacy
+Drug E,Company V,Injection,100 mg/ml,60,1006,$35619,06-12-2023,South America,Miss Debbie Willis,Pharmacy
+Drug E,Company X,Tablet,250 mg,10 ml,578,$21030,13-02-2024,North America,Briana Henry,Clinics
+Drug E,Company W,Capsule,100 mg/ml,100 ml,1284,$40997,29-07-2023,North America,Jennifer Marsh,Online Pharmacy
+Drug C,Company V,Capsule,10 mg,100 ml,1832,$22662,11-07-2024,Africa,Rachel Weaver,Supermarkets
+Drug C,Company Z,Capsule,250 mg,60,698,$42700,30-08-2023,Europe,Michael Hodges,Pharmacy
+Drug D,Company W,Injection,50 mg,100 ml,174,$28115,08-09-2023,Africa,James Taylor,Hospitals
+Drug D,Company Z,Cream,250 mg,100 ml,247,$2564,30-04-2024,North America,Ms. Jamie Nunez DVM,Pharmacy
+Drug B,Company V,Capsule,500 mg,10 ml,1585,$22796,22-04-2024,Europe,Catherine Li,Pharmacy
+Drug E,Company Y,Tablet,50 mg,50 g,1212,$30821,05-02-2024,South America,Lauren Taylor,Supermarkets
+Drug E,Company Y,Syrup,100 mg/ml,100 ml,1322,$41761,15-05-2024,South America,Daniel Moore,Pharmacy
+Drug D,Company X,Cream,50 mg,60,1258,$22547,30-08-2023,Europe,Joseph Blair,Hospitals
+Drug E,Company V,Cream,50 mg,10 ml,1589,$28938,24-11-2023,South America,William Foley,Hospitals
+Drug B,Company V,Tablet,500 mg,10 ml,908,$44347,24-11-2023,Asia,Alexis Davis,Hospitals
+Drug E,Company Y,Injection,100 mg/ml,60,888,$22714,04-01-2024,Asia,Nathan Contreras,Pharmacy
+Drug B,Company Y,Cream,250 mg,60,1591,$6484,11-09-2023,Asia,Wendy Finley,Clinics
+Drug B,Company Y,Syrup,50 mg,50 g,1266,$27371,05-12-2023,North America,Vanessa Wood,Clinics
+Drug C,Company V,Capsule,10 mg,30,1335,$1534,07-07-2024,Europe,Laurie Gonzalez,Pharmacy
+Drug D,Company Y,Tablet,10 mg,30,790,$9353,23-01-2024,Europe,Natalie Evans,Clinics
+Drug C,Company W,Tablet,100 mg/ml,10 ml,408,$31302,24-02-2024,South America,Marissa Adams,Clinics
+Drug A,Company W,Injection,250 mg,50 g,1613,$49778,24-11-2023,South America,Michael Mosley,Clinics
+Drug B,Company V,Capsule,500 mg,50 g,1046,$41599,23-08-2023,South America,Michael Knight,Online Pharmacy
+Drug A,Company W,Syrup,250 mg,60,769,$38634,08-05-2024,Asia,Ashley Johnson,Clinics
+Drug D,Company Y,Tablet,250 mg,30,1661,$40534,01-01-2024,Europe,Christopher Clayton,Hospitals
+Drug D,Company Z,Injection,50 mg,100 ml,1541,$36377,14-08-2023,South America,Tara Harris,Online Pharmacy
+Drug C,Company Z,Injection,250 mg,50 g,286,$30863,09-09-2023,Europe,Roberto Bryant,Online Pharmacy
+Drug C,Company X,Cream,100 mg/ml,100 ml,1432,$43247,21-06-2024,Africa,Janet Fritz,Supermarkets
+Drug E,Company V,Tablet,500 mg,50 g,249,$21795,20-09-2023,Asia,Elizabeth Melendez,Hospitals
+Drug B,Company W,Cream,10 mg,30,1441,$15841,11-08-2023,Africa,William Baker,Supermarkets
+Drug B,Company X,Syrup,500 mg,30,1951,$18265,02-06-2024,Africa,Eugene Mccarthy MD,Hospitals
+Drug B,Company Y,Cream,500 mg,100 ml,1017,$10342,02-07-2024,North America,Richard Day,Hospitals
+Drug A,Company W,Syrup,250 mg,60,1287,$45058,08-02-2024,North America,Michael Freeman,Supermarkets
+Drug B,Company Z,Tablet,10 mg,100 ml,1236,$48538,02-07-2024,South America,Dale Wright,Supermarkets
+Drug E,Company Y,Capsule,10 mg,10 ml,1368,$6205,18-03-2024,North America,Stephanie Gutierrez,Online Pharmacy
+Drug A,Company V,Capsule,100 mg/ml,100 ml,936,$10109,24-03-2024,Asia,Vincent Espinoza,Pharmacy
+Drug C,Company V,Injection,500 mg,60,676,$37726,24-12-2023,Asia,Allen Cortez,Clinics
+Drug E,Company Y,Injection,100 mg/ml,30,338,$11276,08-09-2023,Africa,Thomas Camacho,Supermarkets
+Drug A,Company W,Capsule,500 mg,50 g,1131,$33794,30-01-2024,Asia,James Ryan,Supermarkets
+Drug B,Company V,Cream,10 mg,100 ml,1415,$40903,29-07-2023,South America,Javier Gonzales DDS,Pharmacy
+Drug C,Company Y,Capsule,250 mg,50 g,1737,$27260,19-01-2024,North America,Jessica Turner,Hospitals
+Drug E,Company X,Syrup,50 mg,100 ml,689,$19199,06-02-2024,Africa,James Sanchez,Supermarkets
+Drug D,Company W,Tablet,250 mg,30,961,$17111,02-01-2024,Europe,Christy Morgan,Clinics
+Drug E,Company W,Tablet,250 mg,100 ml,523,$39012,29-02-2024,Africa,Lauren Gutierrez,Online Pharmacy
+Drug C,Company W,Cream,100 mg/ml,100 ml,124,$17741,01-11-2023,North America,Jerry Fry,Hospitals
+Drug B,Company Z,Injection,50 mg,100 ml,1579,$29112,10-10-2023,Asia,Lisa Powell,Online Pharmacy
+Drug D,Company V,Injection,10 mg,30,465,$47839,10-03-2024,Europe,Gregory Wright,Pharmacy
+Drug B,Company V,Tablet,500 mg,50 g,106,$16139,30-04-2024,Europe,Kenneth Torres,Clinics
+Drug D,Company W,Cream,10 mg,100 ml,129,$33103,12-12-2023,Asia,Kathy Garza,Pharmacy
+Drug C,Company V,Injection,100 mg/ml,30,179,$44121,07-09-2023,Asia,Ryan Taylor,Hospitals
+Drug A,Company X,Capsule,500 mg,30,509,$10346,18-03-2024,Africa,Brenda Martin,Pharmacy
+Drug A,Company Y,Injection,10 mg,60,1543,$28043,16-03-2024,South America,Robert Petersen,Supermarkets
+Drug C,Company V,Cream,250 mg,100 ml,517,$39197,03-01-2024,South America,Gary Moon,Hospitals
+Drug E,Company X,Syrup,50 mg,60,938,$27950,13-01-2024,Asia,Patricia Cowan,Clinics
+Drug B,Company Z,Tablet,50 mg,60,1468,$33405,07-05-2024,Europe,Tina Hernandez,Pharmacy
+Drug E,Company Z,Tablet,100 mg/ml,100 ml,1397,$14728,28-02-2024,Africa,Nathaniel Weiss,Online Pharmacy
+Drug D,Company W,Cream,250 mg,10 ml,230,$44042,02-01-2024,North America,Timothy Frank,Online Pharmacy
+Drug D,Company W,Tablet,100 mg/ml,60,498,$26954,27-08-2023,North America,William Allen,Online Pharmacy
+Drug C,Company Z,Cream,50 mg,100 ml,1501,$49128,31-10-2023,South America,Corey Walsh,Supermarkets
+Drug B,Company X,Syrup,50 mg,30,190,$40850,09-01-2024,Asia,April Parker,Supermarkets
+Drug E,Company Y,Injection,10 mg,30,1984,$49839,03-12-2023,Europe,Sean Duncan,Clinics
+Drug D,Company Y,Capsule,500 mg,50 g,1919,$29695,14-01-2024,South America,Brenda Bauer,Online Pharmacy
+Drug B,Company Z,Capsule,500 mg,10 ml,655,$8141,15-06-2024,Asia,Austin Wright,Pharmacy
+Drug D,Company W,Cream,100 mg/ml,30,935,$46285,21-09-2023,Asia,Amy Mitchell,Supermarkets
+Drug E,Company W,Cream,50 mg,30,1565,$13345,10-01-2024,Africa,Michael Sanchez,Online Pharmacy
+Drug B,Company Y,Tablet,100 mg/ml,50 g,769,$24713,27-08-2023,Europe,Mrs. Hayley Hunter MD,Supermarkets
+Drug E,Company V,Capsule,250 mg,10 ml,1624,$13764,11-09-2023,Africa,Sandra Davis,Supermarkets
+Drug A,Company W,Syrup,50 mg,60,676,$35872,29-05-2024,Europe,Joyce Travis,Online Pharmacy
+Drug A,Company Y,Syrup,50 mg,50 g,906,$12431,01-03-2024,North America,Susan Ali,Clinics
+Drug A,Company Y,Cream,50 mg,10 ml,1870,$4688,15-03-2024,South America,Lori Bass,Pharmacy
+Drug A,Company W,Capsule,100 mg/ml,50 g,1810,$27443,13-08-2023,Europe,Michael Gray,Pharmacy
+Drug B,Company X,Capsule,10 mg,60,427,$8379,14-04-2024,North America,Dr. Abigail Jackson,Clinics
+Drug D,Company X,Injection,50 mg,100 ml,1340,$32355,21-02-2024,North America,Rebecca Harrison,Pharmacy
+Drug C,Company V,Cream,50 mg,60,1084,$40033,19-12-2023,North America,Stacey Collins,Clinics
+Drug C,Company W,Capsule,500 mg,60,1441,$5001,16-02-2024,Africa,Mr. Jacob Stokes DDS,Online Pharmacy
+Drug E,Company X,Cream,500 mg,100 ml,1440,$35398,28-07-2024,South America,Lindsay Hall,Pharmacy
+Drug A,Company Z,Syrup,100 mg/ml,100 ml,891,$27927,12-10-2023,North America,Mary Steele,Clinics
+Drug A,Company X,Cream,100 mg/ml,30,1718,$27940,06-09-2023,Africa,Scott Bowers,Clinics
+Drug D,Company X,Cream,50 mg,50 g,1367,$45734,16-01-2024,South America,Gabriella West,Pharmacy
+Drug A,Company Y,Injection,100 mg/ml,100 ml,1899,$19924,17-09-2023,Asia,Allison Barker,Clinics
+Drug E,Company Y,Tablet,500 mg,100 ml,824,$49294,23-12-2023,North America,Jeffery Tran,Clinics
+Drug A,Company W,Cream,250 mg,100 ml,1964,$33741,21-07-2024,North America,Christopher Jones,Online Pharmacy
+Drug B,Company W,Tablet,50 mg,50 g,1091,$46316,21-04-2024,Asia,Annette Snyder,Clinics
+Drug A,Company Z,Tablet,100 mg/ml,10 ml,247,$35441,07-10-2023,South America,Erika Reed,Online Pharmacy
+Drug D,Company V,Capsule,100 mg/ml,60,1598,$4074,18-08-2023,Europe,Daniel Lee,Hospitals
+Drug A,Company X,Capsule,50 mg,50 g,679,$22164,12-11-2023,Africa,Nicholas Carey,Pharmacy
+Drug E,Company V,Injection,250 mg,30,1521,$35865,22-02-2024,Europe,Teresa Lewis,Clinics
+Drug C,Company W,Tablet,250 mg,60,347,$25965,10-05-2024,Africa,Alyssa Craig,Clinics
+Drug A,Company Y,Injection,10 mg,100 ml,740,$37678,30-06-2024,Asia,Chris Wise,Clinics
+Drug B,Company V,Tablet,100 mg/ml,60,872,$10189,11-03-2024,Asia,Keith Burton,Online Pharmacy
+Drug E,Company Y,Cream,10 mg,10 ml,449,$18843,24-04-2024,South America,Susan Ellison,Pharmacy
+Drug B,Company Z,Syrup,500 mg,100 ml,1835,$37032,25-06-2024,South America,Margaret Duncan,Clinics
+Drug B,Company Y,Cream,10 mg,30,413,$38333,13-06-2024,Europe,Jennifer Nelson,Clinics
+Drug D,Company V,Syrup,500 mg,30,913,$42870,17-09-2023,North America,Donna Peters,Clinics
+Drug C,Company Z,Cream,250 mg,100 ml,1075,$45857,04-03-2024,Asia,Michael Palmer,Supermarkets
+Drug D,Company X,Syrup,10 mg,30,1600,$21517,22-06-2024,South America,Daniel Collins,Hospitals
+Drug B,Company W,Injection,250 mg,10 ml,576,$40961,19-12-2023,Asia,Ms. Alexis Robertson,Supermarkets
+Drug A,Company V,Syrup,100 mg/ml,30,1265,$32484,13-12-2023,Africa,Stephen Reed,Pharmacy
+Drug A,Company V,Cream,100 mg/ml,10 ml,529,$6114,30-06-2024,Africa,Joshua Hebert,Pharmacy
+Drug A,Company V,Syrup,500 mg,100 ml,424,$36660,15-11-2023,North America,Anthony King,Pharmacy
+Drug A,Company Z,Injection,50 mg,60,1902,$4193,18-02-2024,Asia,Amy Bentley,Online Pharmacy
+Drug A,Company W,Injection,100 mg/ml,60,1560,$33167,05-01-2024,Asia,Lori Cole,Pharmacy
+Drug E,Company Z,Capsule,10 mg,60,375,$13847,11-09-2023,South America,Jesse Choi,Clinics
+Drug C,Company X,Cream,10 mg,10 ml,1663,$47873,12-04-2024,North America,Vanessa Watson,Clinics
+Drug D,Company W,Cream,100 mg/ml,100 ml,997,$34888,24-04-2024,Europe,Brian Cole,Online Pharmacy
+Drug A,Company W,Tablet,10 mg,60,1718,$35098,09-11-2023,South America,Joshua Johnson,Pharmacy
+Drug E,Company Y,Injection,250 mg,10 ml,324,$15547,14-02-2024,South America,Anne Coleman,Supermarkets
+Drug A,Company W,Tablet,500 mg,60,1929,$15465,18-07-2024,Asia,Melanie Mccoy DDS,Clinics
+Drug D,Company Z,Injection,100 mg/ml,10 ml,1206,$44930,04-02-2024,Africa,William Blackburn,Online Pharmacy
+Drug D,Company X,Capsule,10 mg,60,1937,$16796,18-01-2024,Europe,Alyssa Harvey,Hospitals
+Drug D,Company Z,Cream,50 mg,100 ml,1705,$9606,30-11-2023,Asia,Jack Carpenter,Supermarkets
+Drug C,Company X,Cream,250 mg,100 ml,938,$21278,29-07-2023,South America,Robert Gordon,Pharmacy
+Drug B,Company V,Tablet,50 mg,100 ml,1566,$25494,29-08-2023,South America,Dawn Bryant,Online Pharmacy
+Drug D,Company X,Injection,50 mg,30,1644,$23908,26-12-2023,South America,Darren Lowe,Supermarkets
+Drug B,Company V,Injection,10 mg,30,765,$37749,13-11-2023,South America,Anna Page,Pharmacy
+Drug D,Company Z,Syrup,100 mg/ml,50 g,946,$40826,05-01-2024,South America,Eric Wolf,Clinics
+Drug D,Company V,Syrup,250 mg,60,399,$2187,15-03-2024,Asia,Leslie Chapman,Clinics
+Drug A,Company W,Cream,250 mg,60,1193,$37828,29-12-2023,Africa,Margaret Davies,Pharmacy
+Drug D,Company Y,Capsule,10 mg,100 ml,187,$42709,05-04-2024,North America,Nancy Woods,Hospitals
+Drug B,Company Y,Syrup,10 mg,10 ml,1360,$35945,08-09-2023,Africa,Samuel Peterson,Pharmacy
+Drug B,Company W,Injection,250 mg,60,872,$22950,11-02-2024,Europe,Donald Kennedy,Supermarkets
+Drug B,Company X,Tablet,50 mg,100 ml,537,$44378,21-09-2023,Africa,Olivia Smith,Online Pharmacy
+Drug E,Company Y,Cream,100 mg/ml,50 g,696,$49562,20-02-2024,South America,Gloria Curry,Online Pharmacy
+Drug A,Company Y,Cream,50 mg,60,357,$35849,06-05-2024,North America,Rachel Donaldson,Online Pharmacy
+Drug B,Company V,Syrup,250 mg,100 ml,1179,$43406,25-12-2023,Africa,Mark Johnston,Hospitals
+Drug B,Company W,Capsule,100 mg/ml,10 ml,1352,$41492,22-03-2024,South America,Danny Porter,Hospitals
+Drug B,Company Z,Tablet,250 mg,100 ml,1691,$17378,27-05-2024,South America,Tracy Russell,Clinics
+Drug E,Company W,Capsule,50 mg,10 ml,680,$37383,22-09-2023,North America,Matthew Medina,Supermarkets
+Drug E,Company Y,Syrup,50 mg,50 g,971,$22075,18-11-2023,Europe,Erin Molina,Pharmacy
+Drug E,Company Y,Tablet,50 mg,50 g,1321,$26875,28-04-2024,South America,Ronald Owens,Clinics
+Drug D,Company Z,Capsule,500 mg,100 ml,1134,$12807,27-09-2023,North America,Lori Russo,Pharmacy
+Drug B,Company W,Injection,500 mg,100 ml,163,$36531,13-04-2024,North America,Katherine Doyle,Online Pharmacy
+Drug C,Company V,Injection,250 mg,10 ml,641,$19362,24-08-2023,Asia,Matthew Thompson,Pharmacy
+Drug C,Company X,Injection,100 mg/ml,100 ml,1114,$46343,29-02-2024,North America,Travis Goodman,Hospitals
+Drug A,Company X,Tablet,500 mg,100 ml,1128,$25909,23-08-2023,North America,Emily Alexander,Clinics
+Drug B,Company X,Syrup,100 mg/ml,100 ml,455,$19258,24-12-2023,North America,Susan Arroyo,Clinics
+Drug C,Company Z,Capsule,50 mg,10 ml,1660,$1292,25-12-2023,North America,Douglas Holloway,Clinics
+Drug C,Company X,Tablet,100 mg/ml,50 g,582,$6514,06-06-2024,South America,Christina Mata,Supermarkets
+Drug A,Company W,Injection,100 mg/ml,60,716,$7865,13-10-2023,North America,Christopher Miranda,Hospitals
+Drug E,Company X,Syrup,500 mg,50 g,200,$15045,20-06-2024,Europe,Ms. Olivia Murray,Supermarkets
+Drug E,Company Y,Capsule,500 mg,30,151,$13928,15-01-2024,Europe,Kimberly Miller,Pharmacy
+Drug D,Company Z,Injection,500 mg,60,1084,$10084,26-10-2023,North America,Thomas Tran,Online Pharmacy
+Drug C,Company V,Injection,250 mg,60,369,$27023,05-07-2024,South America,Holly Jones,Clinics
+Drug C,Company Y,Tablet,500 mg,30,1689,$42571,02-09-2023,North America,Joshua Jackson,Online Pharmacy
+Drug D,Company Z,Capsule,250 mg,30,1435,$33459,13-11-2023,North America,Sara Sullivan,Hospitals
+Drug E,Company Z,Injection,50 mg,50 g,433,$5852,19-11-2023,Asia,Jeffrey Bruce,Supermarkets
+Drug A,Company Z,Cream,500 mg,50 g,425,$30089,25-02-2024,South America,Mark Newman,Pharmacy
+Drug C,Company V,Tablet,50 mg,60,1331,$23249,18-07-2024,Europe,Michael Gonzalez,Clinics
+Drug D,Company Y,Tablet,500 mg,50 g,700,$14747,21-09-2023,Asia,John Sloan,Online Pharmacy
+Drug A,Company Z,Capsule,250 mg,60,1290,$26612,04-08-2023,Africa,Mark Phillips,Hospitals
+Drug C,Company X,Tablet,10 mg,30,1697,$22505,15-12-2023,Asia,Kristina Shepard,Clinics
+Drug B,Company Y,Capsule,50 mg,60,1435,$12698,28-01-2024,Asia,Paul Garcia,Supermarkets
+Drug C,Company Y,Tablet,250 mg,50 g,676,$37974,13-03-2024,Asia,Colleen Proctor,Supermarkets
+Drug E,Company V,Tablet,500 mg,10 ml,1529,$37893,26-05-2024,Europe,Frank Lara,Clinics
+Drug C,Company V,Capsule,10 mg,10 ml,1904,$47774,13-06-2024,Africa,Richard Wilson,Pharmacy
+Drug D,Company Y,Injection,100 mg/ml,60,274,$36990,18-02-2024,Europe,Christopher Sutton,Supermarkets
+Drug B,Company Z,Cream,50 mg,10 ml,974,$13263,12-07-2024,Asia,Andrew Simpson,Clinics
+Drug C,Company Y,Syrup,100 mg/ml,30,1169,$30037,17-04-2024,Asia,Heather Butler,Online Pharmacy
+Drug C,Company Y,Capsule,500 mg,10 ml,1922,$30322,23-10-2023,Asia,Suzanne Hopkins DVM,Supermarkets
+Drug B,Company V,Syrup,100 mg/ml,60,1656,$2052,19-07-2024,Europe,Spencer Bird,Hospitals
+Drug D,Company V,Tablet,500 mg,30,999,$1790,11-06-2024,Europe,John Weaver,Pharmacy
+Drug D,Company Y,Cream,500 mg,10 ml,1027,$5568,17-03-2024,Europe,Anthony Mclean MD,Online Pharmacy
+Drug C,Company Z,Tablet,250 mg,100 ml,202,$35739,19-03-2024,Asia,Wendy Shepherd,Supermarkets
+Drug C,Company Y,Capsule,100 mg/ml,100 ml,868,$39318,05-03-2024,North America,Erica Patterson,Supermarkets
+Drug C,Company Z,Cream,100 mg/ml,30,783,$7230,07-08-2023,North America,Justin Li,Pharmacy
+Drug A,Company Y,Tablet,100 mg/ml,60,624,$39173,27-03-2024,Europe,George Reyes,Pharmacy
+Drug A,Company Z,Tablet,50 mg,30,144,$31678,02-02-2024,South America,Stephen Day DDS,Online Pharmacy
+Drug B,Company X,Injection,50 mg,10 ml,1705,$3950,02-02-2024,North America,James Roberson,Pharmacy
+Drug A,Company Y,Injection,50 mg,100 ml,1435,$11503,29-01-2024,North America,Tanya Thompson,Pharmacy
+Drug D,Company Y,Tablet,50 mg,50 g,1882,$23935,16-10-2023,North America,Allison Bennett,Clinics
+Drug C,Company W,Injection,100 mg/ml,100 ml,1018,$42507,13-07-2024,Europe,Adam Jones,Hospitals
+Drug E,Company V,Capsule,500 mg,100 ml,1895,$40085,19-10-2023,North America,Monique Morton,Hospitals
+Drug C,Company X,Cream,250 mg,50 g,634,$27518,31-08-2023,South America,Audrey Neal,Pharmacy
+Drug B,Company Z,Capsule,100 mg/ml,50 g,598,$44610,01-08-2023,North America,Scott Williams,Supermarkets
+Drug A,Company Y,Injection,50 mg,60,1619,$35793,15-07-2024,North America,Darryl Rivera,Online Pharmacy
+Drug B,Company X,Syrup,100 mg/ml,100 ml,359,$36979,06-12-2023,North America,Molly Adams,Clinics
+Drug E,Company Y,Cream,50 mg,100 ml,1502,$12221,24-11-2023,Europe,Michele Vance,Clinics
+Drug C,Company W,Tablet,250 mg,30,1552,$11238,26-04-2024,Asia,John Anthony,Online Pharmacy
+Drug C,Company W,Capsule,50 mg,10 ml,1152,$39119,26-04-2024,North America,Joseph Smith,Clinics
+Drug A,Company X,Syrup,100 mg/ml,60,996,$46219,06-08-2023,Africa,Mary Hanson,Pharmacy
