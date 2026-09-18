@@ -35,6 +35,18 @@ ORDER BY Profit_Margin DESC;
     Analyze the dataset and identify the key factors responsible for Technology outperforming Furniture and Office Supplies. Consider factors such as sales volume, discounting, profitability, and product mix.
 */
 
+SELECT
+    Category,
+    SUM(Sales) AS Total_Sales,
+    SUM(Quantity) AS Total_Quantity,
+    AVG(Discount) AS Avg_Discount,
+    SUM(Profit) AS Total_Profit,
+    SUM(Profit) / SUM(Sales) AS Profit_Margin,
+    COUNT(DISTINCT Sub_Category) AS Product_Mix
+FROM Orders
+WHERE Category IN ('Technology', 'Furniture', 'Office Supplies')
+GROUP BY Category
+ORDER BY Total_Profit DESC;
 
 
 /* ### 4. Sub-Category Profitability Matrix
@@ -48,6 +60,16 @@ ORDER BY Profit_Margin DESC;
 
 */
 
+/* ### 4. Sub-Category Profitability Matrix */
+
+SELECT
+    `Sub-Category`,
+    SUM(Sales) AS Total_Sales,
+    SUM(Profit) AS Total_Profit,
+    (SUM(Profit) / SUM(Sales)) * 100 AS Profit_Margin
+FROM Orders
+GROUP BY `Sub-Category`
+ORDER BY Total_Profit ASC;
 
 
 
