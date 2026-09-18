@@ -72,4 +72,27 @@ GROUP BY `Sub-Category`
 ORDER BY Total_Profit ASC;
 
 
+/* 5. Root Cause Analysis – Tables
+The **Tables** Sub-Category generated a loss exceeding **$17,000**.
+
+Analyze the following metrics:
+
+- Average Discount
+- Average Sales
+- Number of Orders
+- Profit Margin (%)
+
+Based on your findings, determine the primary reasons behind the losses.
+*/
+
+
+
+
+
+
+
+
+
+
+
 
